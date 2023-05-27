@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--
-**luohongk/luohongk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student from cumt major in surveying and mapping :rofl:
 
-Here are some ideas to get you started:
+- 🎓 An undergraduate major in  at CUMT (2020 - 2024)
+- ✨ Graduate school is unknown
+- 🌱 I’m currently learning gnss ,slam and deeplearning
+- 💬 Ask me about anything what I know
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 &nbsp;**Connect with me**
+
+腾讯QQ:2638923243
+
+email:hkluo@cumt.edu.cn
+
+### ✨&nbsp; About Me
+
+blog:lhkterence.github.io
+
+bilibili:**泰伦斯-Ternence**
