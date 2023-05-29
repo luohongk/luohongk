@@ -3,7 +3,7 @@
 I am a student from cumt major in surveying and mapping :rofl:
 
 - 🎓 An undergraduate major in  at CUMT (2020 - 2024)
-- ✨ Graduate school is unknown
+- ✨ I am enrolled in a graduate program, but have not yet finalized which university to attend.
 - 🌱 I’m currently learning gnss ,slam and deeplearning
 - 💬 Ask me about anything what I know
   
