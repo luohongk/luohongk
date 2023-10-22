@@ -3,7 +3,8 @@
 I am a student from cumt major in surveying and mapping :rofl:
 
 - 🎓 An undergraduate major in  at CUMT (2020 - 2024)
-- ✨ I will enter Wuhan University for further study, and my research direction is semantic salm
+- 🎓 An master in  at WHU (2024 - 2027)
+- ✨ My research direction is semantic salm
 - 🌱 I’m currently learning gnss ,slam and deeplearning
 - 💬 Ask me about anything what I know
   
