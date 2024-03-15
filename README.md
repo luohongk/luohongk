@@ -12,12 +12,12 @@ I am a student from cumt major in surveying and mapping :rofl:
 
 🔗 &nbsp;**Connect with me**
 
-腾讯QQ:2638923243
+QQ:2638923243
 
 email:hkluo@cumt.edu.cn
 
 ### ✨&nbsp; About Me
 
-blog:lhkterence.github.io
+my website:https://luohongkun.com/
 
 bilibili:**泰伦斯-Ternence**
