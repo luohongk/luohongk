@@ -5,7 +5,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 - 🎓 An undergraduate major in  at CUMT (2020 - 2024)
 - 🎓 In the future an master in  at WHU (2024 - 2027)
 - ✨ My research direction is semantic SLAM
-- 🌱 I’m currently learning gnss ,SLAM and deeplearning
+- 🌱 I’m currently learning GNSS,INS,SLAM and deeplearning
 - 💬 Ask me about anything what I know
   
   
