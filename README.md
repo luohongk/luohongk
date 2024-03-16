@@ -18,4 +18,4 @@ email:hkluo@cumt.edu.cn
 
 my website:https://luohongkun.com/
 
-bilibili:<a herf="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">**泰伦斯-Ternence**</a>
+bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">**泰伦斯-Ternence**</a>
