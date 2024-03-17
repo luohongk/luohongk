@@ -22,7 +22,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 </td>
 <td align="center" width="30%">
     
-<img width="170" height="400" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=luohongk&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="">
+<img width="170" height="50" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=luohongk&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="">
 
 </td>
 </table>
