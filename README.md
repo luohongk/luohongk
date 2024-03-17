@@ -20,20 +20,20 @@ my website: <a href="https://luohongkun.com/">**我的个人主页**</a>
 
 bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">**泰伦斯-Ternence**</a>
 
-<tr><td>
+<tr>
 
 ### 📊 Github statistics
 <table>
-
 <tr>
 <td align="center" width="55%">
 [![luohongk's github stats](https://github-readme-stats.vercel.app/api?username=luohongk&count_private=true&show_icons=true&theme=white)](https://github.com/luohongk)
 </td>
+
 <td align="top" width="45%">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=white)](https://github.com/luohongk)
+</td>
 </table>
-
-</td></tr>
+</tr>
 
 
 
