@@ -14,14 +14,11 @@ I am a student from cumt major in surveying and mapping :rofl:
 <tr>
 <td align="center" width="55%">
     
-  <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&langs_count=6&bg_color=E6E6FA" alt="">
 
+[![luohongk's github stats](https://github-readme-stats.vercel.app/api?username=luohongk&count_private=true&show_icons=true&theme=white)](https://github.com/luohongk)
 </td>
 <td align="top" width="45%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=white)](https://github.com/luohongk/github-readme-stats)
-
-
+  <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&langs_count=6&bg_color=E6E6FA" alt="">
 </td>
 <td align="center" width="55%">
     
