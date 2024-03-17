@@ -14,7 +14,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 <tr>
 <td align="center" width="55%">
     
-<img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=luohongk&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="">
+  <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&langs_count=6&bg_color=E6E6FA" alt="">
 
 </td>
 <td align="top" width="45%">
