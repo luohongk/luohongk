@@ -7,7 +7,10 @@ I am a student from cumt major in surveying and mapping :rofl:
 - ✨ My research direction is GNSS,INS,SLAM and deeplearning
 - 🌱 I’m currently learning GNSS,INS,SLAM and deeplearning
 - 💬 Ask me about anything what I know
-  
+### 🔗 &nbsp;Connect with me
+email:hkluo@cumt.edu.cn
+### ✨&nbsp; About Me
+my website: <a href="https://luohongkun.com/">**我的个人主页**</a>;bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">**泰伦斯-Ternence**</a>
 ### 📊 Github statistics
 
 <table>
@@ -28,18 +31,6 @@ I am a student from cumt major in surveying and mapping :rofl:
 </table>
 </tr>  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
-
-
-
-### 🔗 &nbsp;Connect with me
-
-email:hkluo@cumt.edu.cn
-
-### ✨&nbsp; About Me
-
-my website: <a href="https://luohongkun.com/">**我的个人主页**</a>
-
-bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">**泰伦斯-Ternence**</a>
 
 <tr>
 
