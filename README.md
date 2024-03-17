@@ -24,7 +24,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 
 
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;Connect with me
 
 email:hkluo@cumt.edu.cn
 
