@@ -27,6 +27,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 </td>
 </table>
 </tr>  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 
 
