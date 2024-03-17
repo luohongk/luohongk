@@ -15,7 +15,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 <td align="center" width="40%">
     
 
-[![luohongk's github stats](https://github-readme-stats.vercel.app/api?username=luohongk&count_private=true&show_icons=true&theme=white)](https://github.com/luohongk)
+[![luohongk's github stats](https://github-readme-stats.vercel.app/api?username=luohongk&theme=radical&count_private=true&show_icons=true&theme=white)](https://github.com/luohongk)
 </td>
 <td align="top" width="30%">
   <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&langs_count=6&bg_color=E6E6FA" alt="">
