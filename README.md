@@ -11,6 +11,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 email:hkluo@cumt.edu.cn
 ### ✨&nbsp; About Me
 my website: <a href="https://luohongkun.com/">**我的个人主页**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">**泰伦斯-Ternence**</a>
+&nbsp;&nbsp;&nbsp;&nbsp;my blog:<a href="https://luohongkun.com/luohongkBlog/">**我的个人博客**</a>
 ### 📊 Github statistics
 
 <table>
