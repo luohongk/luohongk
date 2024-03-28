@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=28&pause=1000&color=232488&background=37418000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E5%85%89%E8%80%8C%E4%B8%8D%E8%80%80%EF%BC%8C%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1+-%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B)](https://git.io/typing-svg)
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=28&pause=1000&color=232488&background=37418000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E5%85%89%E8%80%8C%E4%B8%8D%E8%80%80%EF%BC%8C%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1+-%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B" alt="typing-svg">
+</p>
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 I am a student from cumt major in surveying and mapping :rofl:
