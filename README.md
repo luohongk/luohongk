@@ -26,7 +26,7 @@ my website: <a href="https://luohongkun.com/">**我的个人主页**</a>&nbsp;&n
 </td>
 <td align="center" width="30%">
     
-<img width="300" style="margin: auto 1px" align="right" src="https://github-profile-trophy.vercel.app/?username=luohongk&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="">
+<img width="300" style="margin: auto 1px" align="right" src="https://github-profile-trophy.vercel.app/?username=luohongk&theme=flat&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="">
 
 </td>
 </table>
