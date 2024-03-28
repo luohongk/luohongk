@@ -31,7 +31,7 @@ my website: <a href="https://luohongkun.com/">**我的个人主页**</a>&nbsp;&n
 </td>
 </table>
 </tr>  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 <tr>
 
