@@ -41,11 +41,8 @@ my website: <a href="https://luohongkun.com/">**我的个人主页**</a>&nbsp;&n
 
 </td>
 </table>
-</tr>  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" alt="Lazy">
-<tr>
 ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
-<tr>
 
 
 
