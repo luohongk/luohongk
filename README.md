@@ -28,7 +28,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 <p>🌱 I’m currently learning GNSS,INS,SLAM and deeplearning</p>
 <p>💬 Ask me about anything what I know</p>
 </td>
-<td align="left" width=1000px>
+<td align="left" width=500px>
 <p>✨&nbsp; About Me</p>
 <p>&nbsp; &nbsp;&nbsp;my website: <a href="https://luohongkun.com/">我的个人主页</a></p>
 <p>&nbsp; &nbsp;&nbsp;my bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
