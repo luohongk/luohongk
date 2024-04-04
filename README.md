@@ -24,7 +24,6 @@ email:hkluo@cumt.edu.cn
 my website: <a href="https://luohongkun.com/">**我的个人主页**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">**泰伦斯-Ternence**</a>
 &nbsp;&nbsp;&nbsp;&nbsp;my blog:<a href="https://luohongkun.com/luohongkBlog/">**我的个人博客**</a>
 ### 📊 Github statistics
-![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
 <table>
 <tr>
 <td align="center" width="40%">
@@ -43,5 +42,6 @@ my website: <a href="https://luohongkun.com/">**我的个人主页**</a>&nbsp;&n
 </table>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
+![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
 
 
