@@ -79,7 +79,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 
 </td>
 </table>
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=tokyo-day&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 
 ### 📁 Repositories
@@ -89,5 +89,5 @@ I am a student from cumt major in surveying and mapping :rofl:
  <a href="https://github.com/luohongk/PseudorangeSPP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=PseudorangeSPP&theme=buefy" /></a>
 
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
-</table> -->
+![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
+</table>
