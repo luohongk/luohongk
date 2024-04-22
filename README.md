@@ -36,6 +36,7 @@
 <p>✅ 我的网站: <a href="https://luohongkun.com/">我的个人主页</a></p>
 <p>📺 我的B站:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
 <p>📙 我的博客:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
+<p>📙 my csdn:<a href="https://blog.csdn.net/qq_56883085">我的CSDN</a></p>
 <p>🔗 联系我</p>
 <p>📧 邮箱:hkluo@cumt.edu.cn</p>
 </td>
@@ -56,6 +57,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 <p>✅ my website: <a href="https://luohongkun.com/">我的个人主页</a></p>
 <p>📺 my bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
 <p>📙 my blog:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
+<p>📙 my csdn:<a href="https://blog.csdn.net/qq_56883085">我的CSDN</a></p>
 <p>🔗 Connect with me</p>
 <p>📧 email:hkluo@cumt.edu.cn</p>
 </td>
