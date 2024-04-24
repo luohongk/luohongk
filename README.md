@@ -67,7 +67,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 
  <a href="https://github.com/luohongk/CeHuiProgramDesign"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=CeHuiProgramDesign&theme=flag-india" /></a>  <a href="https://github.com/luohongk/SuperPoint_FBOW"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=SuperPoint_FBOW&theme=flag-india" /></a>
 
- <a href="https://github.com/luohongk/PseudorangeSPP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=PseudorangeSPP&theme=flag-india" /></a>  <a href="https://github.com/luohongk/SmallAlgorithmExercises"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=SmallAlgorithmExercises&theme=flag-india" /></a>
+ <a href="https://github.com/luohongk/PseudorangeSPP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=PseudorangeSPP&theme=flag-india" /></a>
 
 ### 📊 Github statistics
 <table>
