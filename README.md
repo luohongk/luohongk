@@ -22,6 +22,7 @@
 ###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 我是一位来自中国矿业大学测绘工程专业的本科生 :rofl:
+正在努力学习中，如果有实习机会可以联系我的邮件，合作也可以
 <table>
 <td align="left" width=1000px>
 <p>🌟 教育经历</p>
