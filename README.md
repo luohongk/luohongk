@@ -26,7 +26,7 @@
 <td align="left" width=1000px>
 <p>🌟 教育经历</p>
 <p>🎓 中国矿业大学本科生（2020 - 2024）-测绘工程</p>
-<p>🎓 未来是一位武汉大学<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>的硕士(2024 - 2027)-大地测量学与测量工程</p>
+<p>🎓 武汉大学<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>的硕士(2024 - 2027)-大地测量学与测量工程</p>
 <p>✨ 我的研究方向是 GNSS,INS,SLAM 和深度学习</p>
 <p>🌱 我现在正在学习 GNSS,INS,SLAM 和深度学习</p>
 <p>💬 可以向我咨询任何我知道的事情</p>
