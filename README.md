@@ -65,7 +65,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 
 ### 📁 Repositories
 
-<a href="https://github.com/luohongk/SuperVINS"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=SuperVINS&theme=flag-india" /></a>   <a href="https://github.com/luohongk/CeHuiProgramDesign"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=CeHuiProgramDesign&theme=flag-india" /></a>
+<a href="https://github.com/luohongk/SuperVINS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=SuperVINS&theme=flag-india" /></a>   <a href="https://github.com/luohongk/CeHuiProgramDesign"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=CeHuiProgramDesign&theme=flag-india" /></a>
 
  <a href="https://github.com/luohongk/PseudorangeSPP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=PseudorangeSPP&theme=flag-india" /></a>   <a href="https://github.com/luohongk/VINS-FusionCommentByLuo"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=VINS-FusionCommentByLuo&theme=flag-india" /></a>
 
