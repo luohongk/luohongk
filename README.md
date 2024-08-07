@@ -47,7 +47,7 @@ I am a student from cumt major in surveying and mapping :rofl:
 <td align="left" width=1000px>
 <p>🌟 Educational experience</p>
 <p>🎓 An undergraduate major in  at CUMT (2020 - 2024)</p>
-<p>🎓 An master in  at WHU-<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>(2024 - 2027)</p>
+<p>🎓 An master at WHU-<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>(2024 - 2027)</p>
 <p>✨ My research direction is GNSS,INS,SLAM and deeplearning</p>
 <p>🌱 I’m currently learning GNSS,INS,SLAM and deeplearning</p>
 <p>💬 Ask me about anything what I know</p>
