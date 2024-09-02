@@ -20,7 +20,7 @@
 
 ###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-我是一位来自武汉大学大地测量学与测量工程的一名研0学生 :rofl:
+我是一位来自武汉大学大地测量学与测量工程的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。
 <table>
 <td align="left" width=1000px>
