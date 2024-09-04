@@ -38,7 +38,7 @@
 <p>📙 我的博客:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
 <p>📙 我的CSDN:<a href="https://blog.csdn.net/qq_56883085">我的CSDN</a></p>
 <p>🔗 联系我</p>
-<p>📧 邮箱:hkluo@cumt.edu.cn</p>
+<p>📧 邮箱:luohongkun@whu.edu.cn</p>
 </td>
 </table>
 
@@ -59,7 +59,7 @@ I am a graduate student in geodesy and surveying engineering from Wuhan Universi
 <p>📙 my blog:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
 <p>📙 my csdn:<a href="https://blog.csdn.net/qq_56883085">我的CSDN</a></p>
 <p>🔗 Connect with me</p>
-<p>📧 email:hkluo@cumt.edu.cn</p>
+<p>📧 email:luohongkun@whu.edu.cn</p>
 </td>
 </table>
 
