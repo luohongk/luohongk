@@ -51,9 +51,9 @@ I am a graduate student in geodesy and surveying engineering from Wuhan Universi
 </td>
 <td align="left" width=500px>
 <p>✨ About Me</p>
-<p>✅ my website: <a href="https://luohongkun.com/">我的个人主页</a></p>
+<p>✅ my website: <a href="https://luohongkun.com/">my website</a></p>
 <p>📺 my bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
-<p>📙 my little red book:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
+<p>📙 my little red book:<a href="https://luohongkun.com/luohongkBlog/">my little red book</a></p>
 <p>🔗 Connect with me</p>
 <p>📧 email:luohongkun@whu.edu.cn</p>
 </td>
