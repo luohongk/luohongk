@@ -27,16 +27,14 @@
 <p>🌟 教育经历</p>
 <p>🎓 中国矿业大学本科生（2020 - 2024）-测绘工程</p>
 <p>🎓 武汉大学<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>的硕士(2024 - 2027)-大地测量学与测量工程</p>
-<p>✨ 我的研究方向是 GNSS,INS,SLAM 和深度学习</p>
-<p>🌱 我现在正在学习 GNSS,INS,SLAM 和深度学习</p>
+<p>✨ 我对定位，感知，3D Vision,Embodied AI感兴趣</p>
 <p>💬 可以向我咨询任何我知道的事情</p>
 </td>
 <td align="left" width=500px>
 <p>✨ 关于我</p>
 <p>✅ 我的网站: <a href="https://luohongkun.com/">我的个人主页</a></p>
 <p>📺 我的B站:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
-<p>📙 我的博客:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
-<p>📙 我的CSDN:<a href="https://blog.csdn.net/qq_56883085">我的CSDN</a></p>
+<p>📙 我的小红书:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
 <p>🔗 联系我</p>
 <p>📧 邮箱:luohongkun@whu.edu.cn</p>
 </td>
@@ -48,16 +46,14 @@ I am a graduate student in geodesy and surveying engineering from Wuhan Universi
 <p>🌟 Educational experience</p>
 <p>🎓 An undergraduate major in  at CUMT (2020 - 2024)</p>
 <p>🎓 An master at WHU-<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>(2024 - 2027)</p>
-<p>✨ My research direction is GNSS,INS,SLAM and deeplearning</p>
-<p>🌱 I’m currently learning GNSS,INS,SLAM and deeplearning</p>
+<p>✨ I am interested in Localization, Perception, 3D Vision,Embodied AI</p>
 <p>💬 Ask me about anything what I know</p>
 </td>
 <td align="left" width=500px>
 <p>✨ About Me</p>
 <p>✅ my website: <a href="https://luohongkun.com/">我的个人主页</a></p>
 <p>📺 my bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
-<p>📙 my blog:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
-<p>📙 my csdn:<a href="https://blog.csdn.net/qq_56883085">我的CSDN</a></p>
+<p>📙 my little red book:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
 <p>🔗 Connect with me</p>
 <p>📧 email:luohongkun@whu.edu.cn</p>
 </td>
