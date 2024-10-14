@@ -34,7 +34,7 @@
 <p>✨ 关于我</p>
 <p>✅ 我的网站: <a href="https://luohongkun.com/">我的个人主页</a></p>
 <p>📺 我的B站:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
-<p>📙 我的小红书:<a href="https://luohongkun.com/luohongkBlog/">我的个人博客</a></p>
+<p>📙 我的小红书:<a href="https://luohongkun.com/luohongkBlog/">我的小红书</a></p>
 <p>🔗 联系我</p>
 <p>📧 邮箱:luohongkun@whu.edu.cn</p>
 </td>
