@@ -14,19 +14,12 @@
 <a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://hits.b3log.org/luohongk/luohongk.svg" >
 </a>
 <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-
- <a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-
+<a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <a href="https://x.com/LuoHongKun2002" target="_blank"><img src="./images/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-
 <a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-
 <a href="https://www.zhihu.com/people/xiu-xue-chu-neng-ing" target="_blank"><img src="./images/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; 
-
 <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
-
 <a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
-
 <a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>
 
 <!-- github粉丝数设置 -->
