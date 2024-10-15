@@ -11,7 +11,10 @@
 </p>
 
 <p align="center">
-<a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://hits.b3log.org/luohongk/luohongk.svg" ></a>
+<a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://hits.b3log.org/luohongk/luohongk.svg" >
+</a>
+<a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+
 <!-- github粉丝数设置 -->
 <!-- <a title="github" target="_blank" href="https://github.com/luohongk/"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dluohongk&labelColor=282c34&color=353940&logo=github&longCache=true" ></a> -->
 </p>
