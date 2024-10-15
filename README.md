@@ -30,7 +30,7 @@
 
 ###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-我叫<span style="color: red;">``罗宏昆``</span>,我是一位来自武汉大学的一名研1学生 :rofl:
+我叫<span style="color: red;">**罗宏昆**</span>,我是一位来自武汉大学的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。
 <table>
 <td align="left" width=1000px>
