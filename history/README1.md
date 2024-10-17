@@ -32,27 +32,41 @@
 
 我叫<span style="color: red;">**罗宏昆**</span>,我是一位来自武汉大学的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。
+<table>
+<td align="left" width=1000px>
+<p>🌟 教育经历</p>
+<p>🎓 中国矿业大学本科生（2020 - 2024）-测绘工程</p>
+<p>🎓 武汉大学<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>的硕士(2024 - 2027)-大地测量学与测量工程</p>
+<p>✨ 我对定位，感知，3D Vision，Embodied AI感兴趣</p>
+<p>💬 可以向我咨询任何我知道的事情</p>
+</td>
+<td align="left" width=500px>
+<p>✨ 关于我</p>
+<p>✅ 我的网站: <a href="https://luohongkun.com/">我的个人主页</a></p>
+<p>📺 我的B站:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
+<p>📙 我的小红书:<a href="https://luohongkun.com/luohongkBlog/">我的小红书</a></p>
+<p>🔗 联系我</p>
+<p>📧 邮箱:luohongkun@whu.edu.cn</p>
+</td>
+</table>
 
-Hi, everyone. My name is  <strong>Hongkun Luo</strong>.I attended China University of Mining and Technology as an undergraduate (2020-2024).Now, I am a 1-year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a herf="https://www.zhiyuteam.com/">Beidou Robotics and Intelligent Navigation Laboratory</a>,supervised by <a herf="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.<br><br>
-I was awarded the National Scholarship for Chinese University Students (0.2%) in 2023. Meanwhile, I also won the MCM/ICM's Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.<br><br>
-
-<p>My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning.I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.</p><br><br>
-
-<p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
-
-### ✨ About me
-<table width="100%">
-  <tr>
-    <td>🏠 <b>Homepage</b>: <a href="https://luohongkun.com/" target="_blank">my personal homepage</a></td>
-    <td>Google Scholar: <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank">Hongkun Luo(罗宏昆)</a></td>
-    <td>Email: <a href="mailto:luohongkun0715@gmail.com" target="_blank">luohongkun0715@gmail.com</a></td>
-  </tr>
-	
-  <tr>
-    <td>Bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank">泰伦斯-Ternence</a></td>
-    <td>my little red book: <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank">泰伦斯-Ternence</a></td>
-	<td>QQ: <a href="./images/qq_num.png" targe="_blank">QQ number(2638923243)</a> </td>
-  </tr>
+I am a graduate student in geodesy and surveying engineering from Wuhan University :rofl:
+<table>
+<td align="left" width=1000px>
+<p>🌟 Educational experience</p>
+<p>🎓 An undergraduate major in  at CUMT (2020 - 2024)</p>
+<p>🎓 An master at WHU-<a href="https://www.zhiyuteam.com/">BRAIN LAB</a>(2024 - 2027)</p>
+<p>✨ I am interested in Localization, Perception, 3D Vision,Embodied AI</p>
+<p>💬 Ask me about anything what I know</p>
+</td>
+<td align="left" width=500px>
+<p>✨ About Me</p>
+<p>✅ my website: <a href="https://luohongkun.com/">my website</a></p>
+<p>📺 my bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0">泰伦斯-Ternence</a></p>
+<p>📙 my little red book:<a href="https://luohongkun.com/luohongkBlog/">my little red book</a></p>
+<p>🔗 Connect with me</p>
+<p>📧 email:luohongkun@whu.edu.cn</p>
+</td>
 </table>
 
 ### 📁 Repositories
@@ -63,12 +77,21 @@ I was awarded the National Scholarship for Chinese University Students (0.2%) in
 
 
 ### 📊 Github statistics
+<table>
+<tr>
 <td align="center" width="50%">
 
 [![luohongk's github stats](https://github-readme-stats.vercel.app/api?username=luohongk&count_private=true&show_icons=true&theme=catppuccin_latte)](https://github.com/luohongk)
 
 </td>
-
+<td align="center"  width="50%">
+<!-- style="margin: auto 1px  height: 100px" -->
+  <img align="center" style="margin: auto 1px  height: 100px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&bg_color=EFF1F5" alt="">
+</td>
+<!-- <td align="center" width="30%"   
+<img width="300" style="margin: auto 1px" align="right" src="https://github-profile-trophy.vercel.app/?username=luohongk&theme=flat&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2&bg_color=EFF1F5" alt="">
+</td> -->
+</table>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 
