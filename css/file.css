@@ -1,0 +1,172 @@
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 250px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%; /* Position above the tooltip */
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: visibility 0s 0.5s, opacity 0.5s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+    transition-delay: 0s; /* Reset delay on hover */
+}
+
+/* 延迟显示 */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.5s;
+}
+.styled-link {
+        color: rgba(179, 29, 216, 0.895);
+        font-weight: bold;
+    }
+
+@font-face {
+        font-family: 'Times New Roman';
+        src: url('font/TIMES.TTF') format('truetype'); /* 根据实际文件名调整 */
+    }
+
+.italic {
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold; /* 加粗 */
+        font-size: 18px; /* 加大字号，调整为你需要的大小 */
+    }
+
+.red-bold-large {
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        color: red;          /* 红色 */
+        font-weight: bold;   /* 加粗 */
+        font-size: 20px;    /* 增大字号（可以根据需要调整） */
+    }
+
+.italic_school {
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold; /* 加粗 */
+        font-size: 20px; /* 加大字号，调整为你需要的大小 */
+    }
+
+.introduction {
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold; /* 加粗 */
+    }
+
+.introduction_highlight {
+        color: rgba(179, 29, 216, 0.895);
+}
+.table_background {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: rgba(19, 160, 207, 0.1); 
+}
+
+.h2_background {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: rgba(76, 91, 206, 0.15); 
+}
+.button_container {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr); /* 创建 5 列 */
+        gap: 10px; /* 列之间的间距 */
+    }
+.button {
+        background-color: rgba(76, 91, 206, 0.15); /* 使用单一的背景色 */
+        padding: 10px;
+        color:#527BBD; /* 设置文本颜色为黑色 */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold; /* 加粗 */
+        font-size: 18px; /* 设置文本字号，您可以根据需要调整 */
+        transition: box-shadow 0.3s, transform 0.2s; /* 添加过渡效果 */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加边界阴影 */
+    }
+
+.button:focus {
+        outline: none; /* 去掉焦点样式 */
+    }
+.clicked {
+        transform: scale(0.95); /* 点击时缩小 */
+        background-color: #0056b3; /* 点击时变色 */
+        transition: transform 0.1s, background-color 0.3s; /* 添加过渡效果 */
+    }
+.button:hover {
+box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* 鼠标悬停时加深阴影 */
+transform: scale(1.1); /* 鼠标悬停时放大 */
+box-shadow: 0 0 20px rgba(76, 91, 206, 0.5); /* 鼠标悬停时的光晕效果 */
+}
+.body_awards {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 150px;
+        margin: 10px;
+        background-color: #f0f0f0;
+        overflow: hidden; /* 隐藏溢出内容 */
+    }
+.carousel-container {
+        overflow: hidden; /* 隐藏溢出部分 */
+        width: 80%; /* 设置容器宽度 */
+        position: relative;
+    }
+.carousel {
+        display: flex; /* 使用弹性布局 */
+        animation: scroll 10s linear infinite; /* 启动滚动动画 */
+    }
+.carousel img {
+        width: 150px; /* 设置图片宽度 */
+        height: 150px; /* 设置图片高度 */
+        margin: 0 5px; /* 添加一些外边距 */
+        border-radius: 8px; /* 可选：添加圆角 */
+    }
+@keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-100%); }
+    }
+
+.pub_container {
+        position: relative;
+        display: inline-block;
+    }
+.pub_image {
+        width: 250px;
+        box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+        border: 5px solid transparent;
+        border-radius: 5px;
+    }
+.pub_text-overlay {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        color: white;
+        background-color: #00369F;
+        padding: 5px;
+        border-radius: 3px;
+        font-size: 12px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold; /* 加粗 */
+    }
