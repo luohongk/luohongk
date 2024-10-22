@@ -69,6 +69,13 @@
 
 </td>
 
+<div align=center>
+
+|<a href="https://github.com/luohongk"><img align="left" src="https://github-readme-stats-luohongk.vercel.app/api?username=luohongk&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true" alt="Hongkun Luo's github stats" /></a>|<a href="https://github.com/luohongk"><img align="right" src="https://github-readme-stats-luohongk.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=catppuccin_latte&hide_border=true" /></a>|
+|  :---:  |  ---:  |
+
+</div>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 
