@@ -49,9 +49,9 @@
   </tr>
 	
   <tr>
-    <td> <img src="./images/bilibili.png" style="height: 20px; vertical-align: middle;">  Bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank">泰伦斯-Ternence</a></td>
-    <td> <img src="./images/xiaohongshu.png" style="height: 20px; vertical-align: middle;"> my little red book: <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank">泰伦斯-Ternence</a></td>
-	<td> <img src="./images/QQ.png" style="height: 20px; vertical-align: middle;"> QQ: <a href="./images/qq_num.png" targe="_blank">QQ number(2638923243)</a> </td>
+    <td> <img src="./images/bilibili.png" style="height: 15px; vertical-align: middle;">  Bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank">泰伦斯-Ternence</a></td>
+    <td> <img src="./images/xiaohongshu.png" style="height: 15px; vertical-align: middle;"> my little red book: <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank">泰伦斯-Ternence</a></td>
+	<td> <img src="./images/QQ.png" style="height: 15px; vertical-align: middle;"> QQ: <a href="./images/qq_num.png" targe="_blank">QQ number(2638923243)</a> </td>
   </tr>
 </table>
 
