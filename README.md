@@ -69,7 +69,7 @@
 
 <div align=center>
 
-|<a href="https://github.com/luohongk"><img align="left" src="https://github-readme-stats.vercel.app/api?username=luohongk&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true" alt="Hongkun Luo's github stats" /></a>|<a href="https://github.com/luohongk"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=catppuccin_latte&hide_border=true" /></a>|
+|<a href="https://github.com/luohongk"><img align="left" src="https://github-readme-stats.vercel.app/api?username=luohongk&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Hongkun Luo's github stats" /></a>|<a href="https://github.com/luohongk"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=vue&hide_border=true" /></a>|
 |  :---:  |  ---:  |
 
 </div>
