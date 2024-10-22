@@ -61,17 +61,10 @@
 
 
 ### 📊 Github statistics
-<td align="center" width="50%">
-
-[![luohongk's github stats](https://github-readme-stats.vercel.app/api?username=luohongk&count_private=true&show_icons=true&theme=catppuccin_latte)](https://github.com/luohongk)
-
-</td>
-
 <div align=center>
+<a href="https://github.com/luohongk"><img align="left" src="https://github-readme-stats.vercel.app/api?username=luohongk&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Hongkun Luo's github stats" /></a>
 
-|<a href="https://github.com/luohongk"><img align="left" src="https://github-readme-stats.vercel.app/api?username=luohongk&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Hongkun Luo's github stats" /></a>|<a href="https://github.com/luohongk"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=vue&hide_border=true" /></a>|
-|  :---:  |  ---:  |
-
+<a href="https://github.com/luohongk"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=vue&hide_border=true" /></a>
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
