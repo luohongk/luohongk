@@ -28,7 +28,7 @@
 
 <table>
 
-###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/uJkJj0HtBWxnklqHJ9/giphy.gif?cid=82a1493bxe6aq1jb1rsn8zgiyodklnlima2kz4ankjmxq6ew&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="5%"></a>
+###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <link rel="stylesheet" href="./css/file.css" type="text/css">
 
