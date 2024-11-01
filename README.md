@@ -26,7 +26,7 @@
 
 <table>
 
-###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>. If you want to know more about me, please click 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>
+###  Welcome to my github. If you want to know more about me, please click 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>
 <link rel="stylesheet" href="./css/file.css" type="text/css">
 
 我叫<span style="color: red;">**罗宏昆**</span>,我是一位来自武汉大学的一名研1学生 :rofl:
@@ -38,9 +38,9 @@
 <p class="red-bold-large">📧Feel free to contact me by email if you are interested in discussing or collaborating with me.</p>
 
 ### 📁 Repositories
-[SuperVINS](https://github.com/luohongk/SuperVINS) A real-time visual-inertial SLAM framework for challenging imaging conditions <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=social" />
+[SuperVINS](https://github.com/luohongk/SuperVINS)<img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=social" />:A real-time visual-inertial SLAM framework for challenging imaging conditions
 
-[CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) Surveying and Mapping Programming Competition 2023 <img src="https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign?style=social" />
+[CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign)<img src="https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign?style=social" />:Surveying and Mapping Programming Competition 2023 
 
 ### 📊 Github statistics
 
