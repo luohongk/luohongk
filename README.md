@@ -30,8 +30,8 @@
 <link rel="stylesheet" href="./css/file.css" type="text/css">
 
 我叫<span style="color: red;">**罗宏昆**</span>,我是一位来自武汉大学的一名研1学生 :rofl:
-正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。
-关于我的更多信息在:https://luohongkun.com/
+正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。<br>
+关于我的更多信息展示，请移步网站:https://luohongkun.com/
 <details open>
   <summary><strong>Education & Lab</strong></summary>
   <p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>.I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.
