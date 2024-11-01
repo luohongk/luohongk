@@ -38,12 +38,10 @@
 <p class="red-bold-large">📧Feel free to contact me by email if you are interested in discussing or collaborating with me.</p>
 
 ### 📁 Repositories
-<img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=social" height="15"/>[SuperVINS](https://github.com/luohongk/SuperVINS):A real-time visual-inertial SLAM framework for challenging imaging conditions.
-
-<img src="https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign?style=social" height="15"/>[CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign):Surveying and Mapping Programming Competition in 2023.
+  - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
+  - 📂 [CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) ![Github stars](https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign.svg) : Surveying and Mapping Programming Competition in 2023.
 
 ### 📊 Github statistics
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
