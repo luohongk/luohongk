@@ -34,7 +34,7 @@
 关于我的更多信息展示，请移步网站:https://luohongkun.com/
 <details open>
   <summary><strong>Education & Lab</strong></summary>
-  <p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>.I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.
+  <p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>. I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.
 </p>
 </details>
 <details open>
@@ -44,7 +44,7 @@
 </details>
 <details open>
 <summary><strong>Research & Interests</strong></summary>
-<p>🌟My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning.I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.
+<p>🌟My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning. I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.
 </p>
 </details>
 <p class="red-bold-large">📧Feel free to contact me by email if you are interested in discussing or collaborating with me.</p>
