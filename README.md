@@ -42,20 +42,7 @@
 
 ### ✨ About me
 <table width="100%">
-  <tr>
-    <td>🏠 <b>Homepage</b>: <a href="https://luohongkun.com/" target="_blank">Here’s my story!</a></td>
-    <td>👨‍🎓Google Scholar: <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank">Hongkun Luo(罗宏昆)</a></td>
-    
-  </tr>
-	
-  <tr>
-    <td>📧Email: <a href="mailto:luohongkun0715@gmail.com" target="_blank">luohongkun0715@gmail.com</a></td>
-    <td> <img src="./images/QQ.png" style="height: 15px; vertical-align: middle;"> QQ: <a href="./images/qq_num.png" targe="_blank">QQ number(2638923243)</a> </td>
-  </tr>
-  <tr>
-    <td> <img src="./images/xiaohongshu.png" style="height: 15px; vertical-align: middle;"> My little red book: <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank">泰伦斯-Ternence</a></td>  
-    <td> <img src="./images/bilibili.png" style="height: 15px; vertical-align: middle;">  Bilibili:<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank">泰伦斯-Ternence</a></td>
-  </tr>	  
+🏠 <b>Homepage</b>: <a href="https://luohongkun.com/" target="_blank">Here’s my story!</a>
 </table>
 
 ### 📁 Repositories
