@@ -38,9 +38,9 @@
 <p class="red-bold-large">📧Feel free to contact me by email if you are interested in discussing or collaborating with me.</p>
 
 ### 📁 Repositories
-<img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=social" height="12"/>[SuperVINS](https://github.com/luohongk/SuperVINS):A real-time visual-inertial SLAM framework for challenging imaging conditions.
+<img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=social" height="15"/>[SuperVINS](https://github.com/luohongk/SuperVINS):A real-time visual-inertial SLAM framework for challenging imaging conditions.
 
-<img src="https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign?style=social" height="12"/>[CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign):Surveying and Mapping Programming Competition in 2023.
+<img src="https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign?style=social" height="15"/>[CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign):Surveying and Mapping Programming Competition in 2023.
 
 ### 📊 Github statistics
 
