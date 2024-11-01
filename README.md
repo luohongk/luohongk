@@ -31,10 +31,21 @@
 
 我叫<span style="color: red;">**罗宏昆**</span>,我是一位来自武汉大学的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。关于我的更多信息在:https://luohongkun.com/
-
-<p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>.I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.</p>
-<p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html">National Scholarship for Chinese University Students</a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.</p>
-<p>🌟My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning.I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.</p>
+<details>
+  <summary><strong>Education & Lab</strong></summary>
+  <p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>.I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.
+</p>
+</details>
+<details>
+<summary><strong>Awards</strong></summary>
+  <p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html">National Scholarship for Chinese University Students</a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.
+</p>
+</details>
+<details>
+<summary><strong>Research & Interests</strong></summary>
+<p>🌟My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning.I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.
+</p>
+</details>
 <p class="red-bold-large">📧Feel free to contact me by email if you are interested in discussing or collaborating with me.</p>
 
 ### 📁 Repositories
