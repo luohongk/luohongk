@@ -22,44 +22,29 @@
 <a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
 <a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>
 
-<!-- github粉丝数设置 -->
-<!-- <a title="github" target="_blank" href="https://github.com/luohongk/"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dluohongk&labelColor=282c34&color=353940&logo=github&longCache=true" ></a> -->
 </p>
 
 <table>
 
-###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
+###  Welcome to my github homepage <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>. If you want to know more about me, please click 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>
 <link rel="stylesheet" href="./css/file.css" type="text/css">
 
 我叫<span style="color: red;">**罗宏昆**</span>,我是一位来自武汉大学的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。
 
-<p class="italic">🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>.I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.</p>
-<p class="italic">🎇I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html">National Scholarship for Chinese University Students</a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.</p>
-<p class="italic">✨My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning.I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.</p>
+<p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>.I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.</p>
+<p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html">National Scholarship for Chinese University Students</a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.</p>
+<p>🌟My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning.I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.</p>
 <p class="red-bold-large">📧Feel free to contact me by email if you are interested in discussing or collaborating with me.</p>
 
-### ✨ About me
-<table width="100%">
-🏠 <b>Homepage</b>: <a href="https://luohongkun.com/" target="_blank">Here’s my story!</a>
-</table>
-
 ### 📁 Repositories
+[SuperVINS](https://github.com/luohongk/SuperVINS) A real-time visual-inertial SLAM framework for challenging imaging conditions <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=social" />
 
-  <a href="https://github.com/luohongk/SuperVINS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=SuperVINS&theme=flag-india" /></a>
-  <a href="https://github.com/luohongk/CeHuiProgramDesign"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luohongk&repo=CeHuiProgramDesign&theme=flag-india" /></a>
-
+[CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) Surveying and Mapping Programming Competition 2023 <img src="https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign?style=social" />
 
 ### 📊 Github statistics
-<div align=center>
-<a href="https://github.com/luohongk"><img align="left" src="https://github-readme-stats.vercel.app/api?username=luohongk&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Hongkun Luo's github stats" /></a>
-<a href="https://github.com/luohongk"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohongk&layout=compact&theme=vue&hide_border=true" /></a>
-</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
-
-
 
 ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
 </table>
