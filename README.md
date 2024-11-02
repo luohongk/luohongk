@@ -48,8 +48,7 @@
 </p>
 </details>
 
-### $\color{red}{📧Feel free to contact me by email if you are interested in discussing or collaborating with me.}$
-$\color{red}{📧Feel&nbsp;free&nbsp;to&nbsp;contact&nbsp;me&nbsp;by&nbsp;email&nbsp;if&nbsp;you&nbsp;are&nbsp;interested&nbsp;in&nbsp;discussing&nbsp;or&nbsp;collaborating&nbsp;with&nbsp;me.}$
+### $\color{red}{📧Feel \quad free \quad to \quad contact \quad me \quad by \quad email \quad if \quad you \quad are \quad interested \quad in \quad discussing \quad or \quad collaborating \quad with \quad me.}$
 
 ### 📁 Repositories
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
