@@ -26,9 +26,8 @@
 
 <table>
 
-###  Welcome to my github. If you want to know more about me, please click 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>
+### $\color{red}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click 🏠<a href="https://luohongkun.com/" target="_blank">\hspace{0.4em} Homepage</a>}$
 <link rel="stylesheet" href="./css/file.css" type="text/css">
-
 我叫<span style="color: red;">**罗宏昆**</span>,我是一位来自武汉大学的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。<br>
 关于我的更多信息展示，请移步网站:https://luohongkun.com/
