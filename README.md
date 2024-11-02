@@ -48,7 +48,7 @@
 </p>
 </details>
 
-### $\color{red}{📧Feel \hspace{1em} free \hspace{1em} to \hspace{1em} contact \hspace{1em} me \hspace{1em} by \hspace{1em} email \hspace{1em} if \hspace{1em} you \hspace{1em} are \hspace{1em} interested \hspace{1em} in \hspace{1em} discussing \hspace{1em} or \hspace{1em} collaborating \hspace{1em} with \hspace{1em} me.}$
+### $\color{red}{📧Feel \hspace{0.5em} free \hspace{0.5em} to \hspace{0.5em} contact \hspace{0.5em} me \hspace{0.5em} by \hspace{0.5em} email \hspace{0.5em} if \hspace{0.5em} you \hspace{0.5em} are \hspace{0.5em} interested \hspace{0.5em} in \hspace{0.5em} discussing \hspace{0.5em} or \hspace{0.5em} collaborating \hspace{0.5em} with \hspace{0.5em} me.}$
 
 ### 📁 Repositories
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
