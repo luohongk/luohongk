@@ -1,3 +1,11 @@
+<!--
+ * @Author: Hongkun Luo
+ * @Date: 2024-11-01 21:04:43
+ * @LastEditors: Hongkun Luo
+ * @Description: 
+ * 
+ * Hongkun Luo
+-->
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=28&pause=1000&color=232488&background=37418000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E5%85%89%E8%80%8C%E4%B8%8D%E8%80%80%EF%BC%8C%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1+-%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B" alt="typing-svg">
 </p>
@@ -40,7 +48,8 @@
 </p>
 </details>
 
-### $\color{red}{📧Feel &nbsp; free &nbsp; to  &nbsp; contact  &nbsp; me  &nbsp; by  &nbsp; email  &nbsp; if  &nbsp; you  &nbsp; are  &nbsp; interested  &nbsp; in  &nbsp; discussing  &nbsp; or  &nbsp; collaborating  &nbsp; with  &nbsp; me.}$
+### $\color{red}{📧Feel free to contact me by email if you are interested in discussing or collaborating with me.}$
+<span style="color:red;">📧 Feel free to contact me by email if you are interested in discussing or collaborating with me.</span>
 
 ### 📁 Repositories
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
