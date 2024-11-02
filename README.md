@@ -39,7 +39,8 @@
 <p>🌟My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning. I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.
 </p>
 </details>
-<p class="red-bold-large">📧Feel free to contact me by email if you are interested in discussing or collaborating with me.</p>
+
+#### $\color{red}{📧Feel free to contact me by email if you are interested in discussing or collaborating with me.}$
 
 ### 📁 Repositories
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
