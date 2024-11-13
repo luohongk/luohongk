@@ -51,7 +51,6 @@
 ### $\color{red}{📧Feel \hspace{0.4em} free \hspace{0.4em} to \hspace{0.4em} contact \hspace{0.4em} me \hspace{0.4em} by \hspace{0.4em} email \hspace{0.4em} if \hspace{0.4em} you \hspace{0.4em} are \hspace{0.4em} interested \hspace{0.4em} in \hspace{0.4em} discussing \hspace{0.4em} or \hspace{0.4em} collaborating \hspace{0.4em} with \hspace{0.4em} me.}$
 
 ### 📁 Repositories
-  - 📂 [Learning-Based-PPN](https://github.com/luohongk/Learning-Based-PPN) ![Github stars](https://img.shields.io/github/stars/luohongk/Learning-Based-PPN.svg) : This repository mainly collects learning-based positioning, perception, and navigation algorithms (Positioning, Perception, Navigation).
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
   - 📂 [CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) ![Github stars](https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign.svg) : Surveying and Mapping Programming Competition in 2023.
 
