@@ -28,7 +28,7 @@
 
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
-**<u>Welcome to my github homepage. If you want to know more about me, please click</u>** 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>
+**<u>Welcome to my github homepage. If you want to know more about me, please click</u>** 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a> **Feel free to contact me by email if you are interested in discussing or collaborating with me.**
 
 我叫 $\textbf{\color{red}{罗宏昆}}$,我是一位来自武汉大学的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。<br>
@@ -50,7 +50,6 @@
 </p>
 </details>
 <!-- ### $\color{red}{📧Feel \hspace{0.4em} free \hspace{0.4em} to \hspace{0.4em} contact \hspace{0.4em} me \hspace{0.4em} by \hspace{0.4em} email \hspace{0.4em} if \hspace{0.4em} you \hspace{0.4em} are \hspace{0.4em} interested \hspace{0.4em} in \hspace{0.4em} discussing \hspace{0.4em} or \hspace{0.4em} collaborating \hspace{0.4em} with \hspace{0.4em} me.}$ -->
-***<u>📧Feel free to contact me by email if you are interested in discussing or collaborating with me</u>***
 
 ### 📁 Repositories
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
