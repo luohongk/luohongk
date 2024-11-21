@@ -28,11 +28,12 @@
 
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
-Welcome to my github homepage. If you want to know more about me, please click 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>
+**<u>Welcome to my github homepage. If you want to know more about me, please click</u>** 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>
 
 我叫 $\textbf{\color{red}{罗宏昆}}$,我是一位来自武汉大学的一名研1学生 :rofl:
 正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。<br>
 关于我的更多信息展示，请移步网站:🏠https://luohongkun.com/
+
 <details open>
   <summary><strong>Education & Lab</strong></summary>
   <p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>. I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024). My GPA is 4.16 out of 5, and I ranked 4th in my major out of 133 students. I ranked first in my major for the overall quality assessment score during the first three years of my undergraduate studies. Now, I am a first year master candidate in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.
@@ -48,9 +49,8 @@ Welcome to my github homepage. If you want to know more about me, please click �
 <p>🌟My research interests mainly focus on <b>Localization,Perception,3D Vision,Embodied AI</b>, on positioning and navigation based on deeplearning. I'm also very interested in occupancy networks with high-quality 3D reconstruction for autonomous driving scenarios.
 </p>
 </details>
-
 <!-- ### $\color{red}{📧Feel \hspace{0.4em} free \hspace{0.4em} to \hspace{0.4em} contact \hspace{0.4em} me \hspace{0.4em} by \hspace{0.4em} email \hspace{0.4em} if \hspace{0.4em} you \hspace{0.4em} are \hspace{0.4em} interested \hspace{0.4em} in \hspace{0.4em} discussing \hspace{0.4em} or \hspace{0.4em} collaborating \hspace{0.4em} with \hspace{0.4em} me.}$ -->
-📧  Feel free to contact me by email if you are interested in discussing or collaborating with me.
+📧  **Feel free to contact me by email if you are interested in discussing or collaborating with me.**
 
 ### 📁 Repositories
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
