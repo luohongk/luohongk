@@ -13,7 +13,7 @@
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://hits.b3log.org/luohongk/luohongk.svg" >
 </a>
-<a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+<!-- <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
 <a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <a href="https://x.com/LuoHongKun2002" target="_blank"><img src="./images/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
@@ -35,7 +35,7 @@ Welcome to my github homepage. If you want to know more about me, please click �
 关于我的更多信息展示，请移步网站:🏠https://luohongkun.com/
 <details open>
   <summary><strong>Education & Lab</strong></summary>
-  <p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>. I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024).Now, I am a first year master student in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.
+  <p>🌟Hi, everyone. My name is  <strong>Hongkun Luo</strong>. I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024). My GPA is 4.16 out of 5, and I ranked 4th in my major out of 133 students. I ranked first in my major for the overall quality assessment score during the first three years of my undergraduate studies. Now, I am a first year master candidate in geodesy and surveying engineering at Wuhan University(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a>.
 </p>
 </details>
 <details open>
