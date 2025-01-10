@@ -54,6 +54,7 @@
 ### 📁 Repositories
   - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
   - 📂 [CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) ![Github stars](https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign.svg) : Surveying and Mapping Programming Competition in 2023.
+  - 📂 [AcademicHomepage](https://github.com/luohongk/AcademicHomepage) ![Github stars](https://img.shields.io/github/stars/luohongk/AcademicHomepage.svg) : 本项目是一个优美的个人学术主页.
 
 ### 📊 Github statistics
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
