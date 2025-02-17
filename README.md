@@ -30,7 +30,7 @@
 
 **Welcome to my GitHub page! I'm Luo Hongkun, a first-year grad student from Wuhan University, currently on a quest for knowledge (and a few snacks 🤣). I'm diving deep into my studies and am eager to find internship opportunities that spark my interest. If you're looking for a curious mind to collaborate with or have any exciting projects in mind, don't hesitate to reach out!** 
 
-**Curious to know more about me? Just click on my 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>! Feel free to drop me an email if you want to chat or brainstorm ideas together. Let’s make something awesome!**
+**Curious to know more about me? Just click on my 🏠<a href="https://luohongkun.com/" target="_blank">Homepage(https://luohongkun.com/)</a>! Feel free to drop me an email if you want to chat or brainstorm ideas together. Let’s make something awesome!**
 
 <details open>
   <summary><strong>Education & Lab</strong></summary>
