@@ -28,7 +28,7 @@
 
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
-**Welcome to my GitHub page! I'm Luo Hongkun, a first-year grad student from Wuhan University, currently on a quest for knowledge (and a few snacks 🤣).** 
+**Welcome to my GitHub page! I'm Hongkun Luo, a first-year grad student from Wuhan University, currently on a quest for knowledge (and a few snacks 🤣).** 
 
 **Curious to know more about me? Just click on my 🏠<a href="https://luohongkun.com/" target="_blank">Homepage(https://luohongkun.com/)</a>! Feel free to drop me an email if you want to chat or brainstorm ideas together. Let’s make something awesome!**
 
