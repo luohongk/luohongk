@@ -28,11 +28,11 @@
 
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
-我叫 $\textbf{\color{red}{罗宏昆}}$,我是一位来自武汉大学的一名研1学生 :rofl:
-正在努力学习中，如果有实习机会或者合作意愿欢迎联系我。<br>
-关于我的更多信息展示，请移步网站:🏠https://luohongkun.com/
-
 **<u>Welcome to my github homepage. If you want to know more about me, please click</u>** 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>. **Feel free to contact me by email if you are interested in discussing or collaborating with me.**
+
+**Welcome to my GitHub page! I'm Luo Hongkun, a first-year grad student from Wuhan University, currently on a quest for knowledge and caffeine! ☕️😄 If you're on the lookout for internship opportunities or fancy collaborating on some cool projects, don’t hesitate to reach out!** 
+
+**Curious to know more about me? Just click on my 🏠<a href="https://luohongkun.com/" target="_blank">Homepage</a>! Feel free to drop me an email if you want to chat or brainstorm ideas together. Let’s make something awesome!**
 
 <details open>
   <summary><strong>Education & Lab</strong></summary>
