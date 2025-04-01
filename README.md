@@ -11,8 +11,6 @@
 </p>
 
 <p align="center">
-<a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://hits.b3log.org/luohongk/luohongk.svg" >
-</a>
 <!-- <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
 <a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <!-- <a href="https://x.com/LuoHongKun2002" target="_blank"><img src="./images/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
