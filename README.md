@@ -48,7 +48,7 @@
 <!-- ### $\color{red}{📧Feel \hspace{0.4em} free \hspace{0.4em} to \hspace{0.4em} contact \hspace{0.4em} me \hspace{0.4em} by \hspace{0.4em} email \hspace{0.4em} if \hspace{0.4em} you \hspace{0.4em} are \hspace{0.4em} interested \hspace{0.4em} in \hspace{0.4em} discussing \hspace{0.4em} or \hspace{0.4em} collaborating \hspace{0.4em} with \hspace{0.4em} me.}$ -->
 
 ### 📁 Repositories
-  - ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg)📂 [SuperVINS](https://github.com/luohongk/SuperVINS) : [JSEN] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
+  - ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg)📂 [SuperVINS](https://github.com/luohongk/SuperVINS) : [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
   - ![Github stars](https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign.svg)📂 [CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) : Surveying and Mapping Programming Competition in 2023.
   - ![Github stars](https://img.shields.io/github/stars/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv.svg)📂 [论文收集](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) : 收集的有关定位，导航，三维重建，VLN/A的相关论文。每天自动更新！issue区是最新10篇论文.
 
