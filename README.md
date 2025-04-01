@@ -53,6 +53,8 @@
   - 📂 [CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) ![Github stars](https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign.svg) : Surveying and Mapping Programming Competition in 2023.
 
 ### 📊 Github statistics
+<a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://hits.b3log.org/luohongk/luohongk.svg" >
+</a>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
