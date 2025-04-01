@@ -48,7 +48,7 @@
 <!-- ### $\color{red}{📧Feel \hspace{0.4em} free \hspace{0.4em} to \hspace{0.4em} contact \hspace{0.4em} me \hspace{0.4em} by \hspace{0.4em} email \hspace{0.4em} if \hspace{0.4em} you \hspace{0.4em} are \hspace{0.4em} interested \hspace{0.4em} in \hspace{0.4em} discussing \hspace{0.4em} or \hspace{0.4em} collaborating \hspace{0.4em} with \hspace{0.4em} me.}$ -->
 
 ### 📁 Repositories
-  - 📂 [SuperVINS](https://github.com/luohongk/SuperVINS) ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
+  - 📂![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg) [SuperVINS](https://github.com/luohongk/SuperVINS) : A real-time visual-inertial SLAM framework for challenging imaging conditions.
   - 📂 [Awesome-Localization-And-3D-Reconstruction-From-Arxiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) ![Github stars](https://img.shields.io/github/stars/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv.svg) : 这个仓库是在arxiv上收集的有关定位导航，三维重建，VLN，VLA的相关论文。每天都会自动更新！issue区域是最新10篇论文.
   - 📂 [CeHuiProgramDesign](https://github.com/luohongk/CeHuiProgramDesign) ![Github stars](https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign.svg) : Surveying and Mapping Programming Competition in 2023.
 
