@@ -42,7 +42,7 @@
 </details>
 <details open>
 <summary><strong>Research & Interests</strong></summary>
-<p>🌟My research interests mainly focus on <b>Learning-based Localization,Learning-based Perception,3D Vision,LLM-based Embodied AI</b>.
+<p>🌟My research interests mainly focus on <b>Learning-based Localization and Perception,3D Vision,LLM-based Embodied AI</b>.
 </p>
 </details>
 <!-- ### $\color{red}{📧Feel \hspace{0.4em} free \hspace{0.4em} to \hspace{0.4em} contact \hspace{0.4em} me \hspace{0.4em} by \hspace{0.4em} email \hspace{0.4em} if \hspace{0.4em} you \hspace{0.4em} are \hspace{0.4em} interested \hspace{0.4em} in \hspace{0.4em} discussing \hspace{0.4em} or \hspace{0.4em} collaborating \hspace{0.4em} with \hspace{0.4em} me.}$ -->
