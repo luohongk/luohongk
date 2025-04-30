@@ -2,16 +2,16 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=28&pause=1000&color=232488&background=37418000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E5%85%89%E8%80%8C%E4%B8%8D%E8%80%80%EF%BC%8C%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1+-%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B" alt="typing-svg">
 </p>
 <p align="center">
-<a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+<a>😊如何与我取得联系（How to contact me）➡️</a>&nbsp;
+<a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
+<a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>&nbsp;
+<a href="https://luohongkun.com/" target="_blank"><img src="./images/house.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <!-- <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
-<a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <!-- <a href="https://x.com/LuoHongKun2002" target="_blank"><img src="./images/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
-<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <!-- <a href="https://www.zhihu.com/people/xiu-xue-chu-neng-ing" target="_blank"><img src="./images/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;  -->
 <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
-<a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
-<a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px">
-</a> 
+<a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+<a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>
 </p>
 <hr>
 <table>
@@ -38,6 +38,7 @@
 </p>
 </details>
 <!-- ### $\color{red}{📧Feel \hspace{0.4em} free \hspace{0.4em} to \hspace{0.4em} contact \hspace{0.4em} me \hspace{0.4em} by \hspace{0.4em} email \hspace{0.4em} if \hspace{0.4em} you \hspace{0.4em} are \hspace{0.4em} interested \hspace{0.4em} in \hspace{0.4em} discussing \hspace{0.4em} or \hspace{0.4em} collaborating \hspace{0.4em} with \hspace{0.4em} me.}$ -->
+<hr>
 
 ### 📁 Repositories
   - ![Github stars](https://img.shields.io/github/stars/luohongk/SuperVINS.svg)📂 [SuperVINS](https://github.com/luohongk/SuperVINS) : [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
