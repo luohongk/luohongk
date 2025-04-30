@@ -21,7 +21,7 @@
 
 **Welcome to my GitHub page! I'm Hongkun Luo, a first-year master candidate from Wuhan University, currently on a quest for knowledge (and a few snacks 🤣).** 
 
-**Curious to know more about me? Just click on my 🏠<a href="https://luohongkun.com/" target="_blank">Homepage(https://luohongkun.com/)</a>! Feel free to drop me an email if you want to chat or brainstorm ideas together. Let’s make something awesome!**
+**Curious to know more about me? Just click on my 🏠Homepage!<a href="https://luohongkun.com/" target="_blank">https://luohongkun.com/</a>😊Feel free to drop me an email if you want to chat or brainstorm ideas together. Let’s make something awesome!**
 
 <details open>
   <summary><strong>Education & Lab</strong></summary>
