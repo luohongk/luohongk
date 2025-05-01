@@ -10,6 +10,8 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=28&pause=1000&color=232488&background=37418000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E5%85%89%E8%80%8C%E4%B8%8D%E8%80%80%EF%BC%8C%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1+-%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B" alt="typing-svg">
 </p>
 
+<hr>
+
 <p align="center">
 <!-- <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
 <a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
@@ -19,8 +21,9 @@
 <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
 <a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
 <a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>
-
 </p>
+
+<hr>
 
 <table>
 
