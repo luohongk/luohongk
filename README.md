@@ -19,10 +19,10 @@
   <a href="https://github.com/luohongk">
     <img src="https://img.shields.io/github/stars/luohongk?logo=polestar" alt="Stars">
   </a>
-  <a href="https://luohongkun.com/">
+  <a href="https://github.com/luohongk?tab=followers">
     <img src="https://img.shields.io/github/followers/luohongk?logo=githubsponsors&logoColor=%23E93839" alt="Followers">
   </a>
-   <a href="https://github.com/luohongk?tab=followers">
+   <a href=" https://luohongkun.com/">
     <img src="https://img.shields.io/badge/homepage-luohongkun.com-brightgreen?style=social&logo=wwe&color=F44336" alt="Followers">
    </a>
    <a href="https://www.zhiyuteam.com/">
