@@ -17,7 +17,8 @@
 <!-- <a href="https://www.zhihu.com/people/xiu-xue-chu-neng-ing" target="_blank"><img src="./images/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;  -->
 <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
 <a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
-<a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>
+<a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px">
+</a>
 </p>
 <hr>
 <table>
