@@ -1,6 +1,22 @@
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=28&pause=1000&color=232488&background=37418000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E5%85%89%E8%80%8C%E4%B8%8D%E8%80%80%EF%BC%8C%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1+-%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B" alt="typing-svg">
 </p>
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 定义箭头 -->
+  <path id="arrow" d="M10 50 L50 10 L90 50 L50 90 Z" fill="#0366d6">
+    <!-- 添加旋转动画 -->
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 50 50"
+      to="360 50 50"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </path>
+</svg>
+
 <p align="center">
 <a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
 </p>
