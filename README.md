@@ -3,6 +3,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=28&pause=1000&color=232488&background=37418000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E5%85%89%E8%80%8C%E4%B8%8D%E8%80%80%EF%BC%8C%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B7%B1+-%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B" alt="typing-svg">
 </p>
 </h1>
+<h1 align="center">
 <p align="center">
 <a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
 <a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>&nbsp;
@@ -18,16 +19,27 @@
   <a href="https://github.com/luohongk">
     <img src="https://img.shields.io/github/stars/luohongk?logo=polestar" alt="Stars">
   </a>
-  <a href="https://github.com/luohongk?tab=followers">
+  <a href="https://luohongkun.com/">
     <img src="https://img.shields.io/github/followers/luohongk?logo=githubsponsors&logoColor=%23E93839" alt="Followers">
   </a>
-  <a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://api.visitorbadge.io/api/visitors?path=luohongk&label=Visitors&labelColor=%23697689&countColor=%23fafafa&style=plastic&labelStyle=none" >
+   <a href="https://github.com/luohongk?tab=followers">
+    <img src="https://img.shields.io/badge/homepage-luohongkun.com-brightgreen?style=social&logo=wwe&color=F44336" alt="Followers">
+   </a>
+   <a href="https://www.zhiyuteam.com/">
+    <img src="https://img.shields.io/badge/WHU-BRAIN_LAB-brightgreen?style=social&logo=wikiversity" alt="BRAIN-LAB">
+  </a>
+  <!-- <a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://api.visitorbadge.io/api/visitors?path=luohongk&label=Visitors&labelColor=%23697689&countColor=%23fafafa&style=plastic&labelStyle=none" >
+  </a> -->
+    <!-- <a title="X" target="_blank" href="https://x.com/LuoHongKun2002"><img src="https://img.shields.io/twitter/follow/LuoHongKun2002" > -->
+    <a title="xiaohongshu" target="_blank" href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9"><img src="https://img.shields.io/badge/%E4%B8%80%E6%A0%B9%E7%BD%97%E5%B8%88%E7%B2%89-brightgreen?style=social&logo=xiaohongshu" >
   </a>
 </p>
+
+</h1>
+
 <p align="center">
 <a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
 </p>
-<table>
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝒑𝒂𝒈𝒆! 𝑰'𝒎 𝑯𝒐𝒏𝒈𝒌𝒖𝒏 𝑳𝒖𝒐, 𝒂 𝒇𝒊𝒓𝒔𝒕-𝒚𝒆𝒂𝒓 𝒎𝒂𝒔𝒕𝒆𝒓 𝒄𝒂𝒏𝒅𝒊𝒅𝒂𝒕𝒆 𝒇𝒓𝒐𝒎 𝑾𝒖𝒉𝒂𝒏 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒐𝒏 𝒂 𝒒𝒖𝒆𝒔𝒕 𝒇𝒐𝒓 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 (𝒂𝒏𝒅 𝒂 𝒇𝒆𝒘 𝒔𝒏𝒂𝒄𝒌𝒔 🤣). 𝑪𝒖𝒓𝒊𝒐𝒖𝒔 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒐𝒓𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆? 𝑱𝒖𝒔𝒕 𝒄𝒍𝒊𝒄𝒌 𝒐𝒏 <a href="https://luohongkun.com/" target="_blank">🏠𝒉𝒐𝒎𝒆𝒑𝒂𝒈𝒆</a>! 😊 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒅𝒓𝒐𝒑 𝒎𝒆 𝒂𝒏 𝒆𝒎𝒂𝒊𝒍 𝒊𝒇 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒄𝒉𝒂𝒕 𝒐𝒓 𝒃𝒓𝒂𝒊𝒏𝒔𝒕𝒐𝒓𝒎 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓. 𝑳𝒆𝒕’𝒔 𝒎𝒂𝒌𝒆 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒘𝒆𝒔𝒐𝒎𝒆!
