@@ -39,13 +39,13 @@
 
 <h1 align="center">
 <!-- 横排插入五张图 -->
-<img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/WHU.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/LuoJia.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/HUANCE.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/SGG1.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/GNSS.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
+<img src="https://sm.ms/image/zpyWZStdKDN3MBE" height="50px" style="margin-bottom:-3px">
+<img src="https://sm.ms/image/5U2m4o3V1laqCEW" height="50px" style="margin-bottom:-3px">
+<img src="https://sm.ms/image/s8BcmKtegq5Dnl2" height="50px" style="margin-bottom:-3px">
+<img src="https://sm.ms/image/omzSwiKI5UqMJV8" height="50px" style="margin-bottom:-3px">
+<img src="https://sm.ms/image/NFVj8SMg6DtIzeP" height="50px" style="margin-bottom:-3px">
+<img src="https://sm.ms/image/4c1z2HJ8ZDA93KY" height="50px" style="margin-bottom:-3px">
+<img src="https://sm.ms/image/hWjaVzsePx6QXBo" height="50px" style="margin-bottom:-3px">
 </h1>
 
 <p align="center">
