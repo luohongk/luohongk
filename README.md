@@ -42,7 +42,7 @@
 <img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
 <img src="./images/WHU.png" height="50px" style="margin-bottom:-3px">
 <img src="./images/LuoJia.png" height="50px" style="margin-bottom:-3px">
-<!-- <img src="./images/HUANCE.png" height="50px" style="margin-bottom:-3px"> -->
+<img src="./images/HUANCE.png" height="50px" style="margin-bottom:-3px">
 <img src="./images/SGG1.png" height="50px" style="margin-bottom:-3px">
 <img src="./images/GNSS.png" height="50px" style="margin-bottom:-3px">
 <img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
