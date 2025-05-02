@@ -16,6 +16,29 @@
 <a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>
 </p>
+<p align="center">
+    <a href="https://www.cumt.edu.cn/">
+        <img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://www.whu.edu.cn/">
+        <img src="./images/WHU.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://luojia.whu.edu.cn/">
+        <img src="./images/LuoJia.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <!-- <a href="https://cesi.cumt.edu.cn/">
+        <img src="./images/HUANCE.png" height="50px" style="margin-bottom:-3px">
+    </a> -->
+    <a href="https://main.sgg.whu.edu.cn/">
+        <img src="./images/SGG1.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://gnsscenter.whu.edu.cn/">
+        <img src="./images/GNSS.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://www.zhiyuteam.com/">
+        <img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
+    </a>
+</p>
 <p  align="center">
   <a href="https://github.com/luohongk">
     <img src="https://img.shields.io/github/stars/luohongk?logo=polestar" alt="Stars">
@@ -34,29 +57,6 @@
     <!-- <a title="X" target="_blank" href="https://x.com/LuoHongKun2002"><img src="https://img.shields.io/twitter/follow/LuoHongKun2002" > -->
     <a title="xiaohongshu" target="_blank" href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9"><img src="https://img.shields.io/badge/%E4%B8%80%E6%A0%B9%E7%BD%97%E5%B8%88%E7%B2%89-brightgreen?style=social&logo=xiaohongshu" >
   </a>
-</p>
-<p align="center">
-    <a href="https://www.cumt.edu.cn/">
-        <img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
-    </a>
-    <a href="https://www.whu.edu.cn/">
-        <img src="./images/WHU.png" height="50px" style="margin-bottom:-3px">
-    </a>
-    <a href="https://luojia.whu.edu.cn/">
-        <img src="./images/LuoJia.png" height="50px" style="margin-bottom:-3px">
-    </a>
-    <a href="https://cesi.cumt.edu.cn/">
-        <img src="./images/HUANCE.png" height="50px" style="margin-bottom:-3px">
-    </a>
-    <a href="https://main.sgg.whu.edu.cn/">
-        <img src="./images/SGG1.png" height="50px" style="margin-bottom:-3px">
-    </a>
-    <a href="https://gnsscenter.whu.edu.cn/">
-        <img src="./images/GNSS.png" height="50px" style="margin-bottom:-3px">
-    </a>
-    <a href="https://www.zhiyuteam.com/">
-        <img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
-    </a>
 </p>
 </h1>
 <p align="center">
