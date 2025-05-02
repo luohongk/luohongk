@@ -35,9 +35,7 @@
     <a title="xiaohongshu" target="_blank" href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9"><img src="https://img.shields.io/badge/%E4%B8%80%E6%A0%B9%E7%BD%97%E5%B8%88%E7%B2%89-brightgreen?style=social&logo=xiaohongshu" >
   </a>
 </p>
-</h1>
-
-<h1 align="center">
+<p align="center">
     <a href="https://www.cumt.edu.cn/">
         <img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
     </a>
@@ -59,6 +57,7 @@
     <a href="https://www.zhiyuteam.com/">
         <img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
     </a>
+</p>
 </h1>
 <p align="center">
 <a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
