@@ -36,18 +36,29 @@
   </a>
 </p>
 </h1>
-
 <h1 align="center">
-<!-- 横排插入五张图 -->
-<img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/WHU.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/LuoJia.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/HUANCE.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/SGG1.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/GNSS.png" height="50px" style="margin-bottom:-3px">
-<img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
+    <a href="https://www.cumt.edu.cn/">
+        <img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://www.whu.edu.cn/">
+        <img src="./images/WHU.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://luojia.whu.edu.cn/">
+        <img src="./images/LuoJia.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://cesi.cumt.edu.cn/">
+        <img src="./images/HUANCE.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://main.sgg.whu.edu.cn/">
+        <img src="./images/SGG1.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://gnsscenter.whu.edu.cn/">
+        <img src="./images/GNSS.png" height="50px" style="margin-bottom:-3px">
+    </a>
+    <a href="https://www.zhiyuteam.com/">
+        <img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
+    </a>
 </h1>
-
 <p align="center">
 <a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
 </p>
