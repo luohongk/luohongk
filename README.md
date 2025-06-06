@@ -64,12 +64,26 @@
 </p>
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
-> [!NOTICE]  
+> [!NOTICE]
+> 
 > 👋 Welcome to my GitHub page!
+> 
 > I'm **Hongkun Luo**, a first-year master's candidate at **Wuhan University**, currently on a journey in search of knowledge (and maybe a few snacks 🤣).
+> 
 > I'm passionate about computer vision, robotics, and anything that helps me learn and build cool stuff.
+> 
 > 👉 Curious to know more about me? Just visit my [**homepage**](https://luohongkun.com/).
+> 
 > 📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas — let’s make something awesome together!
+> 
+
+> [!NOTE]  
+> We plan to release TensorRT accelerated implementation and adapting more matching networks for MAC-VO. If you are interested, please star ⭐ this repo to stay tuned.
+
+> [!NOTE]
+>
+> We provide **[documentation for extending MAC-VO](https://mac-vo.github.io/wiki/)** for extending MAC-VO or using this repository as a boilerplate for *your* learning-based Visual Odometry.
+>
 
 <details open>
   <summary><strong>Education & Lab</strong></summary>
