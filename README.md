@@ -73,11 +73,12 @@
 
 > [!TIP]
 >
-> <details open>
+<details open>
   <summary><strong>Education & Lab</strong></summary>
   <p>🌟I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024). My GPA is 4.16 out of 5, and I ranked 4th in my major out of 133 students. I ranked first in my major for the overall quality assessment score during the first three years of my undergraduate studies. Now, I am a first year master candidate in geodesy and surveying engineering at <a href="https://www.sgg.whu.edu.cn/">Wuhan University</a>(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a> and <a href="https://gnsscenter.whu.edu.cn/info/1301/1081.htm">Prof. Weiwei Song</a>.
 </p>
 </details>
+>
 
 <details open>
 <summary><strong>Awards</strong></summary>
