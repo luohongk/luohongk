@@ -66,13 +66,7 @@
 
 > [!TIP]
 >
-> 👋 Welcome to my GitHub page!  
->
-> I'm **Hongkun Luo**, a first-year master's candidate at **Wuhan University**, currently on a journey in search of knowledge (and maybe a few snacks 🤣).  
->
-> I'm passionate about computer vision, robotics, and anything that helps me learn and build cool stuff.  
->
-> 👉 Curious to know more about me? Just visit my [**homepage**](https://luohongkun.com/).  
+> 👋 Welcome to my GitHub page! I'm **Hongkun Luo**, a first-year master's candidate at **Wuhan University**, currently on a journey in search of knowledge (and maybe a few snacks 🤣). I'm passionate about computer vision, robotics, and anything that helps me learn and build cool stuff. 👉 Curious to know more about me? Just visit my [**homepage**](https://luohongkun.com/).  
 >
 > 📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas — let’s make something awesome together!
 
