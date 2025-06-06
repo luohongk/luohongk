@@ -64,8 +64,12 @@
 </p>
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
-𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃 𝒑𝒂𝒈𝒆! 𝑰'𝒎 𝑯𝒐𝒏𝒈𝒌𝒖𝒏 𝑳𝒖𝒐, 𝒂 𝒇𝒊𝒓𝒔𝒕-𝒚𝒆𝒂𝒓 𝒎𝒂𝒔𝒕𝒆𝒓 𝒄𝒂𝒏𝒅𝒊𝒅𝒂𝒕𝒆 𝒇𝒓𝒐𝒎 𝑾𝒖𝒉𝒂𝒏 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒐𝒏 𝒂 𝒒𝒖𝒆𝒔𝒕 𝒇𝒐𝒓 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 (𝒂𝒏𝒅 𝒂 𝒇𝒆𝒘 𝒔𝒏𝒂𝒄𝒌𝒔 🤣). 𝑪𝒖𝒓𝒊𝒐𝒖𝒔 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒐𝒓𝒆 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆? 𝑱𝒖𝒔𝒕 𝒄𝒍𝒊𝒄𝒌 𝒐𝒏 <a href="https://luohongkun.com/" target="_blank">🏠𝒉𝒐𝒎𝒆𝒑𝒂𝒈𝒆</a>! 😊 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒅𝒓𝒐𝒑 𝒎𝒆 𝒂𝒏 𝒆𝒎𝒂𝒊𝒍 𝒊𝒇 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒄𝒉𝒂𝒕 𝒐𝒓 𝒃𝒓𝒂𝒊𝒏𝒔𝒕𝒐𝒓𝒎 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓. 𝑳𝒆𝒕’𝒔 𝒎𝒂𝒌𝒆 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒘𝒆𝒔𝒐𝒎𝒆!
-
+> [!NOTICE]  
+> 👋 Welcome to my GitHub page!
+> I'm **Hongkun Luo**, a first-year master's candidate at **Wuhan University**, currently on a journey in search of knowledge (and maybe a few snacks 🤣).
+> I'm passionate about computer vision, robotics, and anything that helps me learn and build cool stuff.
+> 👉 Curious to know more about me? Just visit my [**homepage**](https://luohongkun.com/).
+> 📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas — let’s make something awesome together!
 
 <details open>
   <summary><strong>Education & Lab</strong></summary>
