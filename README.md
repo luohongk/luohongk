@@ -64,7 +64,7 @@
 </p>
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
-> [!NOTICE]
+> [!INFO]
 > 
 > 👋 Welcome to my GitHub page!
 > 
@@ -76,14 +76,6 @@
 > 
 > 📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas — let’s make something awesome together!
 > 
-
-> [!NOTE]  
-> We plan to release TensorRT accelerated implementation and adapting more matching networks for MAC-VO. If you are interested, please star ⭐ this repo to stay tuned.
-
-> [!NOTE]
->
-> We provide **[documentation for extending MAC-VO](https://mac-vo.github.io/wiki/)** for extending MAC-VO or using this repository as a boilerplate for *your* learning-based Visual Odometry.
->
 
 <details open>
   <summary><strong>Education & Lab</strong></summary>
