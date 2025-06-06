@@ -72,17 +72,17 @@
 > 👋 Welcome to my GitHub page! I'm **Hongkun Luo**, a first-year master's candidate at **Wuhan University**, currently on a journey in search of knowledge (and maybe a few snacks 🤣). I'm passionate about computer vision, robotics, and anything that helps me learn and build cool stuff. 👉 Curious to know more about me? Just visit my [**homepage**](https://luohongkun.com/).
 
 <details open>
-  <summary><strong>Education & Lab</strong></summary>
+  <summary><strong>🎓Education & Lab</strong></summary>
   <p>🌟I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024). My GPA is 4.16 out of 5, and I ranked 4th in my major out of 133 students. I ranked first in my major for the overall quality assessment score during the first three years of my undergraduate studies. Now, I am a first year master candidate in geodesy and surveying engineering at <a href="https://www.sgg.whu.edu.cn/">Wuhan University</a>(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a> and <a href="https://gnsscenter.whu.edu.cn/info/1301/1081.htm">Prof. Weiwei Song</a>.
 </p>
 </details>
 <details open>
-<summary><strong>Awards</strong></summary>
-  <p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html">National Scholarship for Chinese University Students</a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.
+<summary><strong>🏆Awards</strong></summary>
+  <p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html"><strong>National Scholarship for Chinese University Students</strong></a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.
 </p>
 </details>
 <details open>
-<summary><strong>Research & Interests</strong></summary>
+<summary><strong>🔬Research & Interests</strong></summary>
 <p>🌟My research interests mainly focus on <b>Learning-based Localization and Perception, 3D Vision, LLM-based Embodied AI</b>.
 </p>
 </details>
