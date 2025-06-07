@@ -4,6 +4,8 @@
 </p>
 </h1>
 
+<h2>👋 Welcome to my GitHub page!</h2>
+
 <h1 align="center">
 <p align="center">
 <a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
@@ -61,8 +63,6 @@
 </h1>
 
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
-
-<h2>👋 Welcome to my GitHub page!</h2>
 <p align="center">
 <a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
 </p>
