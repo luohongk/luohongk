@@ -71,6 +71,16 @@
 >
 > 👋 Welcome to my GitHub page! I'm **Hongkun Luo**, a first-year master's candidate at **Wuhan University**, currently on a journey in search of knowledge (and maybe a few snacks 🤣). I'm passionate about computer vision, robotics, and anything that helps me learn and build cool stuff. 👉 Curious to know more about me? Just visit my [**homepage**](https://luohongkun.com/).
 
+
+<div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
+
+<h2>👋 Welcome to my GitHub page!</h2>
+
+I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>, currently on a journey in search of knowledge (and maybe a few snacks 🤣). I'm passionate about <strong>computer vision</strong>, <strong>robotics</strong>, and anything that helps me learn and build cool stuff. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>.
+
+</div>
+
+
 <details open>
   <summary><strong>🎓Education & Lab</strong></summary>
   <p>🌟I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024). My GPA is 4.16 out of 5, and I ranked 4th in my major out of 133 students. I ranked first in my major for the overall quality assessment score during the first three years of my undergraduate studies. Now, I am a first year master candidate in geodesy and surveying engineering at <a href="https://www.sgg.whu.edu.cn/">Wuhan University</a>(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a> and <a href="https://gnsscenter.whu.edu.cn/info/1301/1081.htm">Prof. Weiwei Song</a>.
