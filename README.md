@@ -68,7 +68,10 @@
 <p align="center">
 <a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
 </p>
-I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas. 
+<p align="center">
+<a>📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas. 
+</p>
+I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 
 
 </div>
 
