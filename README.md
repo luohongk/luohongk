@@ -76,7 +76,7 @@
 
 <h2>👋 Welcome to my GitHub page!</h2>
 
-I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>, currently on a journey in search of knowledge (and maybe a few snacks 🤣). I'm passionate about <strong>computer vision</strong>, <strong>robotics</strong>, and anything that helps me learn and build cool stuff. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>.
+I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>, currently on a journey in search of knowledge (and maybe a few snacks 🤣). I'm passionate about <strong>computer vision</strong>, <strong>robotics</strong>, and anything that helps me learn and build cool stuff. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas — let’s make something awesome together! 
 
 </div>
 
