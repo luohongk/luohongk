@@ -67,8 +67,6 @@
 <a>📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas. 
 </p>
 
-<hr>
-
 I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 
 
 </div>
@@ -89,8 +87,6 @@ I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuh
 <p>🌟My research interests mainly focus on <b>Learning-based Localization and Perception, 3D Vision, LLM-based Embodied AI</b>.
 </p>
 </details>
-
-<hr>
 
 ### 📁 Repositories
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
