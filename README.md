@@ -63,14 +63,15 @@
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
 
 <h2>👋 Welcome to my GitHub page!</h2>
-
-<hr>
 <p align="center">
 <a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
 </p>
 <p align="center">
 <a>📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas. 
 </p>
+
+<hr>
+
 I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 
 
 </div>
