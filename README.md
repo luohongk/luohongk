@@ -92,6 +92,8 @@ I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuh
 </p>
 </details>
 
+<hr>
+
 ### 📁 Repositories
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
