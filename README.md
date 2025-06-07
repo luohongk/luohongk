@@ -59,15 +59,15 @@
   </a>
 </p>
 </h1>
-<p align="center">
-<a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
-</p>
+
 <!-- ### $\color{#B733DB}{Welcome \hspace{0.4em} to \hspace{0.4em} my \hspace{0.4em} github. If \hspace{0.4em} you \hspace{0.4em} want \hspace{0.4em} to \hspace{0.4em} know \hspace{0.4em} more \hspace{0.4em} about \hspace{0.4em} me, please \hspace{0.4em} click}$  -->
 
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
 
 <h2>👋 Welcome to my GitHub page!</h2>
-
+<p align="center">
+<a>😊我正在寻找实习or科研合作的机会,可使用邮箱与我取得联系（Email/Gmail is recommended）</a>&nbsp;
+</p>
 I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>, currently on a journey in search of knowledge (and maybe a few snacks 🤣). I'm passionate about <strong>computer vision</strong>, <strong>robotics</strong>, and anything that helps me learn and build cool stuff. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 📬 Feel free to drop me an email if you'd like to chat or brainstorm ideas. 
 
 </div>
