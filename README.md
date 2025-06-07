@@ -61,7 +61,7 @@
 
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
 <p align="center">
-<a>I'm currently seeking internship or research collaboration opportunities. 📬 Feel free to reach out via email if you're interested in connecting or exchanging ideas.
+<a>I'm open to internship and research collaboration opportunities — feel free to reach out! 📬
 </p>
 
 I'm <strong>Hongkun Luo</strong>, a first-year master's candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 
