@@ -7,7 +7,7 @@
 <p align="center">
 <a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
 <a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>&nbsp;
-<a href="https://luohongkun.com/" target="_blank"><img src="./images/house.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+<a href="https://luohongkun.top/" target="_blank"><img src="./images/house.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <!-- <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
 <!-- <a href="https://x.com/LuoHongKun2002" target="_blank"><img src="./images/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
 <!-- <a href="https://www.zhihu.com/people/xiu-xue-chu-neng-ing" target="_blank"><img src="./images/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;  -->
@@ -45,8 +45,8 @@
   <a href="https://github.com/luohongk?tab=followers">
     <img src="https://img.shields.io/github/followers/luohongk?logo=githubsponsors&logoColor=%23E93839" alt="Followers">
   </a>
-   <a href="https://luohongkun.com/">
-    <img src="https://img.shields.io/badge/homepage-luohongkun.com-brightgreen?style=social&logo=wwe&color=F44336" alt="Followers">
+   <a href="https://luohongkun.top/">
+    <img src="https://img.shields.io/badge/homepage-luohongkun.top-brightgreen?style=social&logo=wwe&color=F44336" alt="Followers">
    </a>
    <a href="https://www.zhiyuteam.com/">
     <img src="https://img.shields.io/badge/WHU-BRAIN_LAB-brightgreen?style=social&logo=wikiversity" alt="BRAIN-LAB">
@@ -64,7 +64,7 @@
 <a>I'm open to internship and research collaboration opportunities（feel free to reach out! 📬）
 </p>
 
-<strong>Hongkun Luo</strong>, a master candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 
+<strong>Hongkun Luo</strong>, a master candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.top/" target="_blank"><strong>homepage</strong></a>. 
 
 </div>
 
