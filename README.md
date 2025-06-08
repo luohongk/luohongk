@@ -64,7 +64,7 @@
 <a>I'm open to internship and research collaboration opportunities（feel free to reach out! 📬）
 </p>
 
-I'm <strong>Hongkun Luo</strong>, a first-year master candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 
+<strong>Hongkun Luo</strong>, a master candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.com/" target="_blank"><strong>homepage</strong></a>. 
 
 </div>
 
