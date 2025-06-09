@@ -13,7 +13,9 @@
 <!-- <a href="https://www.zhihu.com/people/xiu-xue-chu-neng-ing" target="_blank"><img src="./images/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;  -->
 <a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
 <!-- <a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
+<a href="./images/wechat_code.png" target="_blank"><img src="./images/wechat_fang.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
 <a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>
+
 </p>
 <p align="center">
     <a href="https://www.cumt.edu.cn/">
