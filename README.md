@@ -85,8 +85,19 @@
 </details>
 <details open>
 <summary><strong>🔬Research & Interests</strong></summary>
-<p>🌟My research interests mainly focus on <b>Robotics Learning, Vision-Language-Navigation, Vision-Language-Action, Learning-based Localization and Perception, 3D Vision(Gaussian Splatting) , Lifelong Navigation, Vision Relocalization</b>.
-</p>
+My research interests mainly focus on **robot learning for embodied agents**, especially in the context of **vision-language navigation** and **lifelong localization**. I am particularly interested in:
+
+- **Vision-Language Navigation and Action**  
+  Grounding natural language into spatial behaviors for embodied agents.
+
+- **Learning-based Localization and Perception**  
+  Including **vision relocalization** and **3D scene understanding** for robust spatial awareness.
+
+- **Efficient 3D Representations**  
+  Exploring methods such as **Gaussian Splatting** for real-time robot mapping and planning.
+
+- **Lifelong Navigation**  
+  Addressing long-term autonomy in dynamic and large-scale environments.
 </details>
 
 ### 📁 Repositories
