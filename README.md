@@ -85,7 +85,7 @@
 </details>
 <details open>
 <summary><strong>🔬Research & Interests</strong></summary>
-My research interests mainly focus on **robot learning for embodied agents**, especially in the context of **vision-language navigation** and **lifelong localization**. I am particularly interested in:
+My research interests mainly focus on <strong>robot learning for embodied agents</strong>, especially in the context of <strong>vision-language navigation</strong> and <strong>lifelong localization</strong>. I am particularly interested in:
 
 - **Vision-Language Navigation and Action**  
   Grounding natural language into spatial behaviors for embodied agents.
@@ -94,7 +94,7 @@ My research interests mainly focus on **robot learning for embodied agents**, es
   Including **vision relocalization** and **3D scene understanding** for robust spatial awareness.
 
 - **Efficient 3D Representations**  
-  Exploring methods such as **Gaussian Splatting** for real-time robot mapping and planning.
+  Exploring methods such as **Gaussian Splatting** for robot mapping and planning.
 
 - **Lifelong Navigation**  
   Addressing long-term autonomy in dynamic and large-scale environments.
