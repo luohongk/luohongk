@@ -85,7 +85,7 @@
 </details>
 <details open>
 <summary><strong>🔬Research & Interests</strong></summary>
-<p>🌟My research interests mainly focus on <b>Learning-based Localization and Perception, 3D Vision, LLM-based Embodied AI</b>.
+<p>🌟My research interests mainly focus on <b>Robotics Learning, Vision-Language-Navigation, Vision-Language-Action, Learning-based Localization and Perception, 3D Vision(Gaussian Splatting) , Lifelong Navigation, Vision Relocalization</b>.
 </p>
 </details>
 
