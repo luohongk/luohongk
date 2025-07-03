@@ -85,7 +85,7 @@
 </details>
 <details open>
 <summary><strong>🔬Research & Interests</strong></summary>
-🌟My research interests are mainly about 🤖**robot learning for embodied agents**, especially in the context of **vision-language navigation** and **lifelong localization**. I am particularly interested in:
+🌟 My research interests are mainly about 🤖<strong>robot learning for embodied agents</strong>, especially in the context of <strong>vision-language navigation</strong> and <strong>lifelong localization</strong>. I am particularly interested in:
 
 - **Vision-Language Navigation and Interaction**  
   Grounding natural language into spatial behaviors for intelligent agents.
