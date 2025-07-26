@@ -104,8 +104,8 @@
     📂 <a href="https://github.com/luohongk/SuperVINS" style="color: #1e90ff; text-decoration: none; font-weight: bold;">SuperVINS</a> : [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
   </div>
   <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/github/stars/luohongk/CeHuiProgramDesign?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=All%20Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
-    📂 <a href="https://github.com/luohongk/CeHuiProgramDesign" style="color: #1e90ff; text-decoration: none; font-weight: bold;">CeHuiProgramDesign</a> : Surveying and Mapping Programming Competition in 2023.
+    <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=All%20Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">  
+    📂 <a href="https://github.com/luohongk/SurveyAlgo" style="color: #1e90ff; text-decoration: none; font-weight: bold;">SurveyAlgo</a> : An open-source library of surveying and mapping algorithms for programming design.
   </div>
   <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
     <img src="https://img.shields.io/github/stars/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=All%20Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
