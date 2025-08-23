@@ -87,9 +87,9 @@
 <summary><strong>🔬Research & Interests</strong></summary>
 🌟 My research interests are mainly about 🤖<strong>robot learning for embodied agents</strong>, especially in the context of <strong>vision-language navigation</strong> and <strong>lifelong localization</strong>. I am particularly interested in:
 
-- **3D Visual Reconstruction (Gaussian Splatting, VGGT)** for building efficient and accurate scene representations.
-- **AI-based Localization and Perception** including visual place recognition, multi-sensor fusion, map-based reasoning.
-- **Vision-Language Navigation and Action** connecting natural language with spatial behaviors.
+- <span style="color:#e63946;"><strong>3D Visual Reconstruction (Gaussian Splatting, VGGT)</strong></span> for building efficient and accurate scene representations.
+- <span style="color:#457b9d;"><strong>AI-based Localization and Perception</strong></span> including visual place recognition, multi-sensor fusion, map-based reasoning.
+- <span style="color:#2a9d8f;"><strong>Vision-Language Navigation and Action</strong></span> connecting natural language with spatial behaviors.
 </details>
 
 ### 📁 Repositories
