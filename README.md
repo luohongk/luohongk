@@ -80,6 +80,12 @@
 </details>
 
 <details open>
+<summary><strong>🏆Awards</strong></summary>
+  <p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html"><strong>National Scholarship for Chinese University Students</strong></a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.
+</p>
+</details>
+
+<details open>
 <summary><strong>🔬Research & Interests</strong></summary>
 🌟 My research interests are mainly about 🤖<strong>robot learning for embodied agents</strong>, especially in the context of <strong>vision-language navigation</strong> and <strong>lifelong localization</strong>. I am particularly interested in:
    
@@ -87,12 +93,6 @@
 - 🔵 📡 **AI-based Localization and Perception** ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
 - 🟢 🤖 **Vision-Language Navigation and Action** ➡️ connecting natural language with spatial behaviors
 
-</details>
-
-<details open>
-<summary><strong>🏆Awards</strong></summary>
-  <p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html"><strong>National Scholarship for Chinese University Students</strong></a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.
-</p>
 </details>
 
 
