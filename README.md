@@ -67,6 +67,13 @@
 <a>I'm open to internship and research collaboration opportunities（feel free to reach out! 📬）
 </p>
 
+<p align="center">
+<a>I am seeking Ph.D. opportunities for Fall 2027.我正在寻找2027年入学的Ph.D.的机会（Robotics+AI)！欢迎一起交流！
+
+
+</p>
+
+
 <strong>Hongkun Luo</strong>, a M.Eng. candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.top/" target="_blank"><strong>homepage</strong></a>. 
 
 </div>
