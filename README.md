@@ -106,15 +106,15 @@
 ### 📁 Repositories
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=All%20Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
+    <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
     📂 <a href="https://github.com/luohongk/SuperVINS" style="color: #1e90ff; text-decoration: none; font-weight: bold;">SuperVINS</a> : [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
   </div>
   <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=All%20Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">  
+    <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">  
     📂 <a href="https://github.com/luohongk/SurveyAlgo" style="color: #1e90ff; text-decoration: none; font-weight: bold;">SurveyAlgo</a> : An open-source code of surveying and mapping algorithms for programming design.
   </div>
   <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/github/stars/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=All%20Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
+    <img src="https://img.shields.io/github/stars/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
     📂 <a href="https://github.com/luohongk/Embodied-AI-Daily" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Embodied-AI-Daily</a> : 收集有关定位，导航，三维重建，VLN/A的相关论文。每天自动更新！issue区是最新10篇论文.
   </div>
 </div>
