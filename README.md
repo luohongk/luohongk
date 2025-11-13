@@ -18,6 +18,27 @@
 <a href="https://x.com/luohongkun0715" target="_blank"><img src="./images/X.png" height="30px" style="margin-bottom:-3px"></a>
 
 </p>
+
+<p  align="center">
+  <!-- <a href="https://github.com/luohongk">
+    <img src="https://img.shields.io/github/stars/luohongk?logo=polestar" alt="Stars">
+  </a>
+  <a href="https://github.com/luohongk?tab=followers">
+    <img src="https://img.shields.io/github/followers/luohongk?logo=githubsponsors&logoColor=%23E93839" alt="Followers">
+  </a> -->
+   <a href="https://luohongkun.top/">
+    <img src="https://img.shields.io/badge/homepage-luohongkun.top-brightgreen?style=social&logo=wwe&color=F44336" alt="Followers">
+   </a>
+   <a href="https://www.zhiyuteam.com/">
+    <img src="https://img.shields.io/badge/WHU-BRAIN_LAB-brightgreen?style=social&logo=wikiversity" alt="BRAIN-LAB">
+  </a>
+  <!-- <a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://api.visitorbadge.io/api/visitors?path=luohongk&label=Visitors&labelColor=%23697689&countColor=%23fafafa&style=plastic&labelStyle=none" >
+  </a> -->
+    <!-- <a title="X" target="_blank" href="https://x.com/LuoHongKun2002"><img src="https://img.shields.io/twitter/follow/LuoHongKun2002" > -->
+    <a title="xiaohongshu" target="_blank" href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9"><img src="https://img.shields.io/badge/%E4%B8%80%E6%A0%B9%E7%BD%97%E5%B8%88%E7%B2%89-brightgreen?style=social&logo=xiaohongshu" >
+  </a>
+</p>
+
 <p align="center">
     <a href="https://www.cumt.edu.cn/">
         <img src="./images/CUMT1.png" height="50px" style="margin-bottom:-3px">
@@ -41,36 +62,12 @@
         <img src="./images/BRAIN.png" height="50px" style="margin-bottom:-3px">
     </a>
 </p>
-<p  align="center">
-  <!-- <a href="https://github.com/luohongk">
-    <img src="https://img.shields.io/github/stars/luohongk?logo=polestar" alt="Stars">
-  </a>
-  <a href="https://github.com/luohongk?tab=followers">
-    <img src="https://img.shields.io/github/followers/luohongk?logo=githubsponsors&logoColor=%23E93839" alt="Followers">
-  </a> -->
-   <a href="https://luohongkun.top/">
-    <img src="https://img.shields.io/badge/homepage-luohongkun.top-brightgreen?style=social&logo=wwe&color=F44336" alt="Followers">
-   </a>
-   <a href="https://www.zhiyuteam.com/">
-    <img src="https://img.shields.io/badge/WHU-BRAIN_LAB-brightgreen?style=social&logo=wikiversity" alt="BRAIN-LAB">
-  </a>
-  <!-- <a title="Hits" target="_blank" href="https://github.com/luohongk/luohongk"><img src="https://api.visitorbadge.io/api/visitors?path=luohongk&label=Visitors&labelColor=%23697689&countColor=%23fafafa&style=plastic&labelStyle=none" >
-  </a> -->
-    <!-- <a title="X" target="_blank" href="https://x.com/LuoHongKun2002"><img src="https://img.shields.io/twitter/follow/LuoHongKun2002" > -->
-    <a title="xiaohongshu" target="_blank" href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9"><img src="https://img.shields.io/badge/%E4%B8%80%E6%A0%B9%E7%BD%97%E5%B8%88%E7%B2%89-brightgreen?style=social&logo=xiaohongshu" >
-  </a>
-</p>
+
 </h1>
 
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
 <p align="center">
 <a>I'm open to internship and research collaboration opportunities（feel free to reach out! 📬）
-</p>
-
-<p align="center">
-<a>I am seeking Ph.D. opportunities for Fall 2027.我正在寻找2027年入学的Ph.D.的机会（Robotics+AI)！欢迎一起交流！
-
-
 </p>
 
 
