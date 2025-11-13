@@ -104,9 +104,10 @@
 
 | ⭐ Stars | 📂 Repository | 📝 Description |
 |----------|---------------|----------------|
-| ![Stars](https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic) | [**SuperVINS**](https://github.com/luohongk/SuperVINS) | [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions. |
-| ![Stars](https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic) | [**SurveyAlgo**](https://github.com/luohongk/SurveyAlgo) | An open-source collection of surveying and mapping algorithms for programming design. |
-| ![Stars](https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic) | [**Embodied-AI-Daily**](https://github.com/luohongk/Embodied-AI-Daily) | A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A. |
+| ![Stars](https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2) | [**SuperVINS**](https://github.com/luohongk/SuperVINS) | [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions. |
+| ![Stars](https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2) | [**SurveyAlgo**](https://github.com/luohongk/SurveyAlgo) | An open-source collection of surveying and mapping algorithms for programming design. |
+| ![Stars](https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2) | [**Embodied-AI-Daily**](https://github.com/luohongk/Embodied-AI-Daily) | A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A. |
+
 
 
 
