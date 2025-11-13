@@ -42,12 +42,12 @@
     </a>
 </p>
 <p  align="center">
-  <a href="https://github.com/luohongk">
+  <!-- <a href="https://github.com/luohongk">
     <img src="https://img.shields.io/github/stars/luohongk?logo=polestar" alt="Stars">
   </a>
   <a href="https://github.com/luohongk?tab=followers">
     <img src="https://img.shields.io/github/followers/luohongk?logo=githubsponsors&logoColor=%23E93839" alt="Followers">
-  </a>
+  </a> -->
    <a href="https://luohongkun.top/">
     <img src="https://img.shields.io/badge/homepage-luohongkun.top-brightgreen?style=social&logo=wwe&color=F44336" alt="Followers">
    </a>
@@ -127,9 +127,9 @@
    
 </div>
 
-### 📊 Github statistics
+<!-- ### 📊 Github statistics -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
 
-![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)-->
 </table>
