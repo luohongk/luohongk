@@ -101,20 +101,42 @@
 
 
 ### 📁 Repositories
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-  <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
-    📂 <a href="https://github.com/luohongk/SuperVINS" style="color: #1e90ff; text-decoration: none; font-weight: bold;">SuperVINS</a> : [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
-  </div>
-  <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">  
-    📂 <a href="https://github.com/luohongk/SurveyAlgo" style="color: #1e90ff; text-decoration: none; font-weight: bold;">SurveyAlgo</a> : An open-source code of surveying and mapping algorithms for programming design.
-  </div>
-  <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    <img src="https://img.shields.io/github/stars/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv?style=plastic&logo=polestar&logoColor=%232E0707&logoSize=0.2&label=Stars&labelColor=%20%233e8af4&color=%23D8ECF2" alt="Github stars" style="margin-right: 10px;">
-    📂 <a href="https://github.com/luohongk/Embodied-AI-Daily" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Embodied-AI-Daily</a> : A curated daily collection of papers on localization, navigation, 3D reconstruction, and vision-language navigation (VLN/A).
-  </div>
-</div>
+
+<table style="width:100%; border-collapse:separate; border-spacing:0 10px;">
+  <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1); border-radius:10px;">
+    <td style="width:100px; text-align:center; padding:10px;">
+      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="Github stars">
+    </td>
+    <td style="padding:10px;">
+      📂 <a href="https://github.com/luohongk/SuperVINS" style="color:#1e90ff; text-decoration:none; font-weight:bold;">SuperVINS</a>  
+      <br>
+      <span style="color:#333;">[JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.</span>
+    </td>
+  </tr>
+
+  <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1); border-radius:10px;">
+    <td style="width:100px; text-align:center; padding:10px;">
+      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="Github stars">
+    </td>
+    <td style="padding:10px;">
+      📂 <a href="https://github.com/luohongk/SurveyAlgo" style="color:#1e90ff; text-decoration:none; font-weight:bold;">SurveyAlgo</a>  
+      <br>
+      <span style="color:#333;">An open-source collection of surveying and mapping algorithms for programming design.</span>
+    </td>
+  </tr>
+
+  <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1); border-radius:10px;">
+    <td style="width:100px; text-align:center; padding:10px;">
+      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="Github stars">
+    </td>
+    <td style="padding:10px;">
+      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily" style="color:#1e90ff; text-decoration:none; font-weight:bold;">Embodied-AI-Daily</a>  
+      <br>
+      <span style="color:#333;">A curated daily collection of papers on localization, navigation, 3D reconstruction, and vision-language navigation (VLN/A).</span>
+    </td>
+  </tr>
+</table>
+
 
 ### 📁 Private Repositories
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
