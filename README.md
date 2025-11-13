@@ -103,21 +103,44 @@
 ### 📁 Repositories
 
 <table>
+  <colgroup>
+    <col width="15%">
+    <col width="35%">
+    <col width="50%">
+  </colgroup>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&color=blue"><br>
-      📂 <a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a><br>
-      <sub>[JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.</sub>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&label=Stars&color=%23D8ECF2" alt="stars">
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&color=blue"><br>
-      📂 <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a><br>
-      <sub>An open-source collection of surveying and mapping algorithms for programming design.</sub>
+    <td>
+      📂 <a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&color=blue"><br>
-      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>Embodied-AI-Daily</b></a><br>
-      <sub>A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.</sub>
+    <td>
+      [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&label=Stars&color=%23D8ECF2" alt="stars">
+    </td>
+    <td>
+      📂 <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
+    </td>
+    <td>
+      An open-source collection of surveying and mapping algorithms for programming design.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&label=Stars&color=%23D8ECF2" alt="stars">
+    </td>
+    <td>
+      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>Embodied-AI-Daily</b></a>
+    </td>
+    <td>
+      A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
     </td>
   </tr>
 </table>
