@@ -110,7 +110,7 @@
   </colgroup>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&label=Stars&color=%23D8ECF2" alt="stars">
+      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
     </td>
     <td>
       📂 <a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a>
@@ -122,7 +122,7 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&label=Stars&color=%23D8ECF2" alt="stars">
+      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
     </td>
     <td>
       📂 <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
@@ -134,7 +134,7 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&label=Stars&color=%23D8ECF2" alt="stars">
+      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
     </td>
     <td>
       📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>Embodied-AI-Daily</b></a>
