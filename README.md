@@ -102,18 +102,18 @@
 
 ### 📁 Repositories
 
-<table style="width:100%; border-collapse:collapse; text-align:left;">
+<table style="width:100%; border-collapse:separate; border-spacing:0 10px;">
   <thead>
     <tr style="background-color:#f4f4f4;">
-      <th style="padding:10px; width:120px;">⭐ Stars</th>
+      <th style="padding:10px; width:110px; text-align:center;">⭐ Stars</th>
       <th style="padding:10px; width:180px;">📂 Repository</th>
       <th style="padding:10px;">📝 Description</th>
     </tr>
   </thead>
   <tbody>
 
-    <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
-      <td style="padding:10px; text-align:center;">
+    <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1); border-radius:10px;">
+      <td style="text-align:center; padding:10px;">
         <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="Github stars">
       </td>
       <td style="padding:10px;">
@@ -124,8 +124,8 @@
       </td>
     </tr>
 
-    <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
-      <td style="padding:10px; text-align:center;">
+    <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1); border-radius:10px;">
+      <td style="text-align:center; padding:10px;">
         <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="Github stars">
       </td>
       <td style="padding:10px;">
@@ -136,8 +136,8 @@
       </td>
     </tr>
 
-    <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
-      <td style="padding:10px; text-align:center;">
+    <tr style="background-color:#fff; box-shadow:0 2px 5px rgba(0,0,0,0.1); border-radius:10px;">
+      <td style="text-align:center; padding:10px;">
         <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="Github stars">
       </td>
       <td style="padding:10px;">
@@ -150,6 +150,7 @@
 
   </tbody>
 </table>
+
 
 
 
