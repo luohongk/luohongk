@@ -104,30 +104,20 @@
 
 <table>
   <tr>
-    <td width="220">
-      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&label=Stars&color=blue" alt="stars">
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&color=blue"><br>
+      📂 <a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a><br>
+      <sub>[JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.</sub>
     </td>
-    <td>
-      📂 <a href="https://github.com/luohongk/SuperVINS" target="_blank"><b>SuperVINS</b></a>  
-      — [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&color=blue"><br>
+      📂 <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a><br>
+      <sub>An open-source collection of surveying and mapping algorithms for programming design.</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="220">
-      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&label=Stars&color=blue" alt="stars">
-    </td>
-    <td>
-      📂 <a href="https://github.com/luohongk/SurveyAlgo" target="_blank"><b>SurveyAlgo</b></a>  
-      — An open-source collection of surveying and mapping algorithms for programming design.
-    </td>
-  </tr>
-  <tr>
-    <td width="220">
-      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&label=Stars&color=blue" alt="stars">
-    </td>
-    <td>
-      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily" target="_blank"><b>Embodied-AI-Daily</b></a>  
-      — A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&color=blue"><br>
+      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>Embodied-AI-Daily</b></a><br>
+      <sub>A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.</sub>
     </td>
   </tr>
 </table>
