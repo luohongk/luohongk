@@ -115,3 +115,37 @@
       [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
+    </td>
+    <td>
+      📂 <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
+    </td>
+    <td>
+      An open-source collection of surveying and mapping algorithms for programming design.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
+    </td>
+    <td>
+      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>Embodied-AI-Daily</b></a>
+    </td>
+    <td>
+      A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
+    </td>
+  </tr>
+</table>
+
+
+### 📁 Private Repositories
+<div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
+    📝 <a href="https://github.com/luohongk/Paper-Read" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Paper-Read</a> : 这个私有仓库主要记录我阅读的相关科研论文与笔记.
+  </div>
+   
+</div>
