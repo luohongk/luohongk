@@ -73,7 +73,7 @@
 
 ### 🔬Research & Interests
 
-🌟 My research interests are mainly about 🤖**robot learning for embodied agents** , especially in the context of **vision-language navigation** and **lifelong localization** `</strong>`.
+🌟 My research interests are mainly about 🤖**robot learning for embodied agents** , especially in the context of **vision-language navigation** and **lifelong localization**.
 
 - 🔴 🖼️ **3D Visual Reconstruction (3D GS, VGGT)** ➡️ for building efficient and accurate scene representations
 - 🔵 📡 **AI-based Localization and Perception** ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
