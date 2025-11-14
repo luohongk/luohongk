@@ -89,14 +89,12 @@
 
 ### ☕️ Coffee Chat and Social
 
-🔔 I offer **one free professional consultation per month** for undergraduate or graduate students in **Surveying, GIS, Remote Sensing, or Navigation** in China — with a special focus on supporting **students from disadvantaged backgrounds**.
-
-📋 **Apply for Consultation:** [Link](https://forms.gle/zWM5AWFk9puspJsc7)
+🔔 I offer **one free professional consultation per month** for undergraduate or graduate students in **Surveying, GIS, Remote Sensing, or Navigation** in China — with a special focus on supporting **students from disadvantaged backgrounds**. **Apply for Consultation** by [Link](https://forms.gle/zWM5AWFk9puspJsc7)
 
 💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee:
 
-- ☕ **Schedule a Coffee Chat:** *feel free to email me*
-- 📧 **General Contact:** via either email above
+- ☕ **Schedule a Coffee Chat:***feel free to email me*
+- 📧 **General Contact:** *via either email above*
 
 ### 📁 Repositories
 
@@ -117,31 +115,6 @@
       [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
     </td>
   </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
-    </td>
-    <td>
-      📂 <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
-    </td>
-    <td>
-      An open-source collection of surveying and mapping algorithms for programming design.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
-    </td>
-    <td>
-      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>Embodied-AI-Daily</b></a>
-    </td>
-    <td>
-      A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
-    </td>
-  </tr>
-</table>
 
 ### 📁 Private Repositories
 
