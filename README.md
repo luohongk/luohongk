@@ -5,16 +5,16 @@
 </h1>
 <h1 align="center">
 <p align="center">
-<a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
-<a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a>&nbsp;
-<a href="https://luohongkun.top/" target="_blank"><img src="./images/house.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-<!-- <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
-<!-- <a href="https://x.com/LuoHongKun2002" target="_blank"><img src="./images/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
-<!-- <a href="https://www.zhihu.com/people/xiu-xue-chu-neng-ing" target="_blank"><img src="./images/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;  -->
-<a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>&nbsp;
-<!-- <a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
-<a href="./images/wechat_code.png" target="_blank"><img src="./images/wechat_fang.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-<a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+<a href="mailto:luohongkun0715@gmail.com" target="_blank"><img src="./images/gmail.png" height="31px" style="margin-bottom:-4px"></a> 
+<a href="mailto:luohongkun@whu.edu.cn" target="_blank"><img src="./images/email.png" height="31px" style="margin-bottom:-5px"></a> 
+<a href="https://luohongkun.top/" target="_blank"><img src="./images/house.png" height="30px" style="margin-bottom:-3px"></a> 
+<!-- <a href="https://scholar.google.com/citations?user=YGJnL3AAAAAJ&hl=zh-CN" target="_blank"><img src="./images/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>  -->
+<!-- <a href="https://x.com/LuoHongKun2002" target="_blank"><img src="./images/X_icon.png" height="30px" style="margin-bottom:-3px"></a>  -->
+<!-- <a href="https://www.zhihu.com/people/xiu-xue-chu-neng-ing" target="_blank"><img src="./images/zhihu.png" height="30px" style="margin-bottom:-3px"></a>   -->
+<a href="https://www.xiaohongshu.com/user/profile/65955d5e00000000220065a9" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a> 
+<!-- <a href="https://space.bilibili.com/688837845?spm_id_from=333.1007.0.0" target="_blank"><img src="./images/bilibili.png" height="30px" style="margin-bottom:-3px"></a>  -->
+<a href="./images/wechat_code.png" target="_blank"><img src="./images/wechat_fang.png" height="30px" style="margin-bottom:-3px"></a> 
+<a href="./images/qq_num.png" target="_blank"><img src="./images/QQ.png" height="30px" style="margin-bottom:-3px"></a> 
 <a href="https://x.com/luohongkun0715" target="_blank"><img src="./images/X.png" height="30px" style="margin-bottom:-3px"></a>
 
 </p>
@@ -66,39 +66,38 @@
 </h1>
 
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
-<p align="center">
-<a>I'm open to internship and research collaboration opportunities（feel free to reach out! 📬）
-</p>
 
-
-<strong>Hongkun Luo</strong>, a M.Eng. candidate at <strong>Wuhan University</strong>. 👉 Curious to know more about me? Just visit my <a href="https://luohongkun.top/" target="_blank"><strong>homepage</strong></a>. 
+`<strong>`Hongkun Luo`</strong>`, a M.Eng. candidate at `<strong>`Wuhan University`</strong>`. 👉 Curious to know more about me? Just visit my `<a href="https://luohongkun.top/" target="_blank"><strong>`homepage`</strong></a>`.
 
 </div>
 
-### 💬 Information
+### 🔬Research & Interests
 
-<details open>
-  <summary><strong>🎓Education & Lab</strong></summary>
-  <p>🌟I attended <a href="https://cesi.cumt.edu.cn/">China University of Mining and Technology</a> as an undergraduate (2020-2024). My GPA is 4.16 out of 5, and I ranked 4th in my major out of 133 students. I ranked first in my major for the overall quality assessment score during the first three years of my undergraduate studies. Now, I am a second year master candidate in geodesy and surveying engineering at <a href="https://www.sgg.whu.edu.cn/">Wuhan University</a>(2024-2027). I am currently doing research in the <a href="https://www.zhiyuteam.com/">Beidou Robotics And Intelligent Navigation laboratory</a>,supervised by <a href="https://jszy.whu.edu.cn/guochi/zh_CN/index.htm">Prof. Chi Guo</a> and <a href="https://gnsscenter.whu.edu.cn/info/1301/1081.htm">Prof. Weiwei Song</a>.
-</p>
-</details>
+🌟 My research interests are mainly about 🤖`<strong>`robot learning for embodied agents`</strong>`, especially in the context of `<strong>`vision-language navigation`</strong>` and `<strong>`lifelong localization`</strong>`.
 
-<details open>
-<summary><strong>🏆Awards</strong></summary>
-  <p>🌟I was awarded the <a href="http://www.moe.gov.cn/srcsite/A05/s7505/202401/t20240117_1100766.html"><strong>National Scholarship for Chinese University Students</strong></a> (0.2%) in 2023. Meanwhile, I also won the <a href="https://www.comap.com/contests/mcm-icm">MCM/ICM</a>'s Meritorious Winner (7%), the First Prize of MathorCup Big Data Challenge (5%),the First Prize of the National Electrotechnical Mathematical Modeling Competition for College Students, the Second Prize of the National College Students' Surveying and Mapping Programming Competition, and other various awards.
-</p>
-</details>
-
-<details open>
-<summary><strong>🔬Research & Interests</strong></summary>
-🌟 My research interests are mainly about 🤖<strong>robot learning for embodied agents</strong>, especially in the context of <strong>vision-language navigation</strong> and <strong>lifelong localization</strong>.
-   
 - 🔴 🖼️ **3D Visual Reconstruction (3D GS, VGGT)** ➡️ for building efficient and accurate scene representations
 - 🔵 📡 **AI-based Localization and Perception** ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
 - 🟢 🤖 **Vision-Language Navigation and Action** ➡️ connecting natural language with spatial behaviors
 
-</details>
+### 📩 Email & CV
 
+🤝 Open to internships & research collaborations.
+
+- 📫 Email: luohongkun0715@gmail.com
+- 📫 Email: luohongkun@whu.edu.cn
+- 📋 CV: [https://luohongkun.top/me/](https://luohongkun.top/me/)
+
+
+### ☕️ Coffee Chat and Social
+
+🔔 I offer **one free professional consultation per month** for undergraduate or graduate students in **Surveying, GIS, Remote Sensing, or Navigation** in China — with a special focus on supporting **students from disadvantaged backgrounds**.
+
+📋 **Apply for Consultation:** [Link](https://forms.gle/zWM5AWFk9puspJsc7)
+
+💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee:
+
+- ☕ **Schedule a Coffee Chat:** *feel free to email me*
+- 📧 **General Contact:** via either email above
 
 ### 📁 Repositories
 
@@ -145,13 +144,13 @@
   </tr>
 </table>
 
-
 ### 📁 Private Repositories
+
 <div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
   <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
     📝 <a href="https://github.com/luohongk/Paper-Read" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Paper-Read</a> : 这个私有仓库主要记录我阅读的相关科研论文与笔记.
   </div>
-   
+
 </div>
 
 <!-- ### 📊 Github statistics -->
@@ -159,4 +158,5 @@
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)-->
+
 </table>
