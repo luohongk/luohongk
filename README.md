@@ -67,13 +67,13 @@
 
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
 
-`<strong>`Hongkun Luo`</strong>`, a M.Eng. candidate at `<strong>`Wuhan University`</strong>`. 👉 Curious to know more about me? Just visit my `<a href="https://luohongkun.top/" target="_blank"><strong>`homepage`</strong></a>`.
+**Hongkun Luo**, a M.Eng. candidate at **Wuhan University**. 👉 Curious to know more about me? Just visit my [Homepage](https://luohongkun.top/)! 😊
 
 </div>
 
 ### 🔬Research & Interests
 
-🌟 My research interests are mainly about 🤖`<strong>`robot learning for embodied agents`</strong>`, especially in the context of `<strong>`vision-language navigation`</strong>` and `<strong>`lifelong localization`</strong>`.
+🌟 My research interests are mainly about 🤖**robot learning for embodied agents** , especially in the context of **vision-language navigation** and **lifelong localization** `</strong>`.
 
 - 🔴 🖼️ **3D Visual Reconstruction (3D GS, VGGT)** ➡️ for building efficient and accurate scene representations
 - 🔵 📡 **AI-based Localization and Perception** ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
@@ -86,7 +86,6 @@
 - 📫 Email: luohongkun0715@gmail.com
 - 📫 Email: luohongkun@whu.edu.cn
 - 📋 CV: [https://luohongkun.top/me/](https://luohongkun.top/me/)
-
 
 ### ☕️ Coffee Chat and Social
 
