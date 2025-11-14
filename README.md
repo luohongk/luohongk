@@ -93,7 +93,7 @@
 
 💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee:
 
-- ☕ **Schedule a Coffee Chat:***feel free to email me*
+- ☕ **Schedule a Coffee Chat:** *feel free to email me*
 - 📧 **General Contact:** *via either email above*
 
 ### 📁 Repositories
@@ -115,20 +115,3 @@
       [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
     </td>
   </tr>
-
-### 📁 Private Repositories
-
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-  <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    📝 <a href="https://github.com/luohongk/Paper-Read" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Paper-Read</a> : 这个私有仓库主要记录我阅读的相关科研论文与笔记.
-  </div>
-
-</div>
-
-<!-- ### 📊 Github statistics -->
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=luohongk&theme=minimal&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
-
-<!-- ![Snake animation](https://raw.githubusercontent.com/luohongk/luohongk/output/github-contribution-grid-snake.svg)-->
-
-</table>
