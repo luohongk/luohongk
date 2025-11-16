@@ -67,7 +67,7 @@
 
 <div align="center" style="max-width: 700px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #fefefe; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); font-family: sans-serif; line-height: 1.6;">
 
-**Hongkun Luo**, a M.Eng. candidate at **Wuhan University**. 👉 Curious to know more about me? Just visit my [Homepage](https://luohongkun.top/)! 😊
+**Hongkun Luo**, a M.Eng. candidate at Wuhan University. 👉 Curious to know more about me? Just visit my [Homepage](https://luohongkun.top/)! 😊
 
 </div>
 
@@ -83,12 +83,12 @@
 
 ### ☕️ Coffee Chat and Social
 
-🔔 I offer **one free professional consultation per month** for undergraduate or graduate students in **Surveying, GIS, Remote Sensing, or Navigation** in China — with a special focus on supporting **students from disadvantaged backgrounds**. **Apply for Consultation** by [Link](https://forms.gle/zWM5AWFk9puspJsc7)
+🔔 I offer one free professional consultation per month** for undergraduate or graduate students in Surveying, GIS, Remote Sensing, or Navigation** in China — with a special focus on supporting students from disadvantaged backgrounds. Apply for Consultation by [Link](https://forms.gle/zWM5AWFk9puspJsc7)
 
 💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee:
 
-- ☕ **Schedule a Coffee Chat:** *feel free to email me*
-- 📧 **General Contact:** *via either email above*
+- ☕ Schedule a Coffee Chat: feel free to email me
+- 📧 General Contact: via either email above
 
 ### 📩 Email & CV
 
