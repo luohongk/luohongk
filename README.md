@@ -73,17 +73,17 @@
 
 ### 🔬Research & Interests
 
-🌟 My research interests are mainly about 🤖**robot learning for embodied agents** , especially in the context of **vision-language navigation** and **lifelong localization**.
+🌟 My research interests are mainly about 🤖robot learning for agents , especially in the context of vision-language navigation and lifelong localization.
 
-- 🔴 🖼️ **3D Visual Reconstruction (3D GS, VGGT)** ➡️ for building efficient and accurate scene representations
-- 🔵 📡 **AI-based Localization and Perception** ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
-- 🟢 🤖 **Vision-Language Navigation and Action** ➡️ connecting natural language with spatial behaviors
+- 🔴 🖼️ 3D Visual Reconstruction (3D GS, VGGT) ➡️ for building efficient and accurate scene representations
+- 🔵 📡 AI-based Localization and Perception ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
+- 🟢 🤖 Vision-Language Navigation and Action ➡️ connecting natural language with spatial behaviors
 
 
 
 ### ☕️ Coffee Chat and Social
 
-🔔 I offer one free professional consultation per month** for undergraduate or graduate students in Surveying, GIS, Remote Sensing, or Navigation** in China — with a special focus on supporting students from disadvantaged backgrounds. Apply for Consultation by [Link](https://forms.gle/zWM5AWFk9puspJsc7)
+🔔 I offer one free professional consultation per month for undergraduate or graduate students in Surveying, GIS, Remote Sensing, or Navigation** in China — with a special focus on supporting students from disadvantaged backgrounds. Apply for Consultation by [Link](https://forms.gle/zWM5AWFk9puspJsc7)
 
 💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee:
 
