@@ -83,12 +83,7 @@
 
 ### ☕️ Coffee Chat and Social
 
-🔔 I offer one free professional consultation per month for undergraduate or graduate students in Surveying, GIS, Remote Sensing, or Navigation in China — with a special focus on supporting students from disadvantaged backgrounds. Apply for Consultation by [Link](https://forms.gle/zWM5AWFk9puspJsc7)
-
-💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee:
-
-- ☕ Schedule a Coffee Chat: feel free to email me
-- 📧 General Contact: via either email above
+🔔 I offer one free professional consultation per month for undergraduate or graduate students in Surveying, GIS, Remote Sensing, or Navigation in China — with a special focus on supporting students from disadvantaged backgrounds. Apply for Consultation by [Link](https://forms.gle/zWM5AWFk9puspJsc7) 💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee:
 
 ### 📩 Email & CV
 
