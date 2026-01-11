@@ -79,20 +79,6 @@
 - 🔵 📡 AI-based Localization and Perception ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
 - 🟢 🤖 Vision-Language Navigation and Action ➡️ connecting natural language with spatial behaviors
 
-
-
-### ☕️ Coffee Chat and Social
-
-🔔 I offer one free professional consultation per month for undergraduate or graduate students in Surveying, GIS, Remote Sensing, or Navigation in China — with a special focus on supporting students from disadvantaged backgrounds. Apply for Consultation by [Link](https://forms.gle/zWM5AWFk9puspJsc7) 💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee.
-
-### 📩 Email & CV
-
-🤝 Open to internships & research collaborations.
-
-- 📫 Email: luohongkun0715@gmail.com
-- 📫 Email: luohongkun@whu.edu.cn
-- 📋 CV: [https://luohongkun.top/me/](https://luohongkun.top/me/)
-
 ### 📁 Repositories
 
 <table>
@@ -137,3 +123,15 @@
     </td>
   </tr>
 </table>
+
+### ☕️ Coffee Chat and Social
+
+🔔 I offer one free professional consultation per month for undergraduate or graduate students in Surveying, GIS, Remote Sensing, or Navigation in China — with a special focus on supporting students from disadvantaged backgrounds. Apply for Consultation by [Link](https://forms.gle/zWM5AWFk9puspJsc7) 💡 I also enjoy connecting with peers, researchers, and collaborators. If you’d like to chat, exchange ideas, or grab a virtual coffee.
+
+### 📩 Email & CV
+
+🤝 Open to internships & research collaborations.
+
+- 📫 Email: luohongkun0715@gmail.com
+- 📫 Email: luohongkun@whu.edu.cn
+- 📋 CV: [https://luohongkun.top/me/](https://luohongkun.top/me/)
