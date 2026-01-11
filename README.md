@@ -84,8 +84,8 @@
 <table>
   <colgroup>
     <col width="15%">
-    <col width="35%">
-    <col width="50%">
+    <col width="40%">
+    <col width="45%">
   </colgroup>
   <tr>
     <td align="center">
