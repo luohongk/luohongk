@@ -79,7 +79,7 @@
 - 🔵 📡 AI-based Localization and Perception ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
 - 🟢 🤖 Vision-Language Navigation and Action ➡️ connecting natural language with spatial behaviors
 
-### 📁 Repositories (Total Stars: ![Total Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fluohongk%2Frepos&query=%24%5B%3F(%40.name%20in%20%5B%22SuperVINS%22%2C%22SurveyAlgo%22%2C%22Embodied-AI-Daily%22%5D)%5D.stargazers_count%20%7C%20sum&suffix=%20★&style=plastic&labelColor=%233e8af4&color=%23D8ECF2))
+### 📁 Repositories
 
 <table>
   <colgroup>
