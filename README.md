@@ -137,12 +137,3 @@
     </td>
   </tr>
 </table>
-
-
-### 📁 Private Repositories
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-  <div style="margin-bottom: 15px; padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;">
-    📝 <a href="https://github.com/luohongk/Paper-Read" style="color: #1e90ff; text-decoration: none; font-weight: bold;">Paper-Read</a> : This private repository mainly records the research papers and notes I read.
-  </div>
-   
-</div>
