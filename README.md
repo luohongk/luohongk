@@ -79,25 +79,50 @@
 - 🔵 📡 AI-based Localization and Perception ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
 - 🟢 🤖 Vision-Language Navigation and Action ➡️ connecting natural language with spatial behaviors
 
-### 📁 Selected Repositories
+### 📁 Repositories
 
-#### 🔹 SuperVINS
-![Stars](https://img.shields.io/github/stars/luohongk/SuperVINS?style=flat)
-> **A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions**  
-> *IEEE Sensors Journal*
+<table>
+  <colgroup>
+    <col width="10%">
+    <col width="45%">
+    <col width="45%">
+  </colgroup>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/SuperVINS?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
+    </td>
+    <td>
+      🗂<a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a>
+    </td>
+    <td>
+      [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
+    </td>
+    <td>
+      🗂<a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
+    </td>
+    <td>
+      An open-source collection of surveying and mapping algorithms for programming design.
+    </td>
+  </tr>
 
-#### 🔹 SurveyAlgo
-![Stars](https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=flat)
-> Open-source collection of **surveying & mapping algorithms**  
-> Designed for **education and algorithmic practice**
-
----
-
-#### 🔹 Embodied-AI-Daily
-![Stars](https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=flat)
-> Daily curated papers on **Localization, Navigation, 3D Reconstruction & VLN/A**
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
+    </td>
+    <td>
+      🗂<a href="https://github.com/luohongk/Embodied-AI-Daily"><b>EAI-Daily</b></a>
+    </td>
+    <td>
+      A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
+    </td>
+  </tr>
+</table>
 
 
 ### ☕️ Coffee Chat and Social
