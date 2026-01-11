@@ -130,7 +130,7 @@
       <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
     </td>
     <td>
-      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>Embodied-AI-Daily</b></a>
+      📂 <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>EAI-Daily</b></a>
     </td>
     <td>
       A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
