@@ -104,7 +104,7 @@
       <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo?style=plastic&logo=polestar&logoColor=%232E0707&label=Stars&labelColor=%233e8af4&color=%23D8ECF2" alt="stars">
     </td>
     <td>
-      🗂<a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
+      🗂<a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlg</b></a>
     </td>
     <td>
       An open-source collection of surveying and mapping algorithms for programming design.
