@@ -135,4 +135,4 @@
 
 - 📫 Email: luohongkun0715@gmail.com
 - 📫 Email: luohongkun@whu.edu.cn
-- 📋 CV: [https://luohongkun.top/me/](https://luohongkun.top/me/)
+- 📋 CV: [https://luohongkun.top/scholar/](https://luohongkun.top/scholar/)
