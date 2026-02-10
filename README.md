@@ -92,7 +92,7 @@
       <img src="https://img.shields.io/github/stars/luohongk/SuperVINS" alt="stars">
     </td>
     <td>
-      🗂<a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a>
+      <a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a>
     </td>
     <td>
       [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
@@ -104,7 +104,7 @@
       <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo" alt="stars">
     </td>
     <td>
-      🗂<a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
+      <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
     </td>
     <td>
       An open-source collection of surveying and mapping algorithms for programming design.
@@ -116,7 +116,7 @@
       <img src="https://img.shields.io/github/stars/luohongk/Embodied-AI-Daily" alt="stars">
     </td>
     <td>
-      🗂<a href="https://github.com/luohongk/Embodied-AI-Daily"><b>EAI-Daily</b></a>
+      <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>EAI-Daily</b></a>
     </td>
     <td>
       A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
