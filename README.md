@@ -77,7 +77,7 @@
 
 - 🔴 🖼️ 3D Visual Reconstruction (3D GS, VGGT) ➡️ for building efficient and accurate scene representations
 - 🔵 📡 AI-based Localization and Perception ➡️ including visual place recognition, multi-sensor fusion, map-based reasoning
-- 🟢 🤖 Vision-Language Navigation and Action ➡️ connecting natural language with spatial behaviors
+- 🟢 🤖 World Model ➡️ learning predictive, causal, and compositional models of the world to enable robust perception and decision-making
 
 ### 📁 Repositories
 
