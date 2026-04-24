@@ -121,6 +121,19 @@
       A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/GNSS-SPP" alt="stars">
+    </td>
+    <td>
+      <a href="https://github.com/luohongk/GNSS-SPP"><b>GNSS-SPP</b></a>
+    </td>
+    <td>
+      A Python GUI application for GNSS pseudorange single-point positioning calculation and visualization.
+    </td>
+  </tr>
+  
 </table>
 
 
