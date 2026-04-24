@@ -130,7 +130,7 @@
       <a href="https://github.com/luohongk/GNSS-SPP"><b>GNSS-SPP</b></a>
     </td>
     <td>
-      A Python GUI application for GNSS pseudorange single-point positioning calculation and visualization.
+      A Python GUI tool for GNSS pseudorange SPP calculation and visualization.
     </td>
   </tr>
   
