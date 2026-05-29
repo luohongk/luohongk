@@ -103,7 +103,7 @@
       <img src="https://img.shields.io/github/stars/luohongk/MiniVIO" alt="stars">
     </td>
     <td>
-      <a href="https://github.com/luohongk/MiniVIO"><b>SuperVINS</b></a>
+      <a href="https://github.com/luohongk/MiniVIO"><b>MiniVIO</b></a>
     </td>
     <td>
       [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
