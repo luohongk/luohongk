@@ -94,7 +94,7 @@
       <a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a>
     </td>
     <td>
-      MiniVIO: A Minimal, Robust and Easy-to-Learn Visual-Inertial Odometry.
+      [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
     </td>
   </tr>
 
@@ -106,7 +106,7 @@
       <a href="https://github.com/luohongk/MiniVIO"><b>MiniVIO</b></a>
     </td>
     <td>
-      [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
+       MiniVIO: A Minimal, Robust and Easy-to-Learn Visual-Inertial Odometry.
     </td>
   </tr>
 
