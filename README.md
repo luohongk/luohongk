@@ -146,7 +146,7 @@
     </td>
   </tr>
 
-    <tr>
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/github/stars/luohongk/pymsckf" alt="stars">
     </td>
@@ -154,7 +154,7 @@
       <a href="https://github.com/luohongk/pymsckf"><b>pymsckf</b></a>
     </td>
     <td>
-      An easy-to-learn Python implementation of MSCKF for learning and research.
+      pymsckf: An Easy-to-Learn Python Implementation of MSCKF for Learning and Research.
     </td>
   </tr>
   
