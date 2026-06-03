@@ -145,6 +145,18 @@
       A Python GUI tool for GNSS pseudorange SPP calculation and visualization.
     </td>
   </tr>
+
+    <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/pymsckf" alt="stars">
+    </td>
+    <td>
+      <a href="https://github.com/luohongk/pymsckf"><b>pymsckf</b></a>
+    </td>
+    <td>
+      An easy-to-learn Python implementation of MSCKF for learning and research.
+    </td>
+  </tr>
   
 </table>
 
