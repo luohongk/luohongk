@@ -100,18 +100,6 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/MiniVIO" alt="stars">
-    </td>
-    <td>
-      <a href="https://github.com/luohongk/MiniVIO"><b>MiniVIO</b></a>
-    </td>
-    <td>
-       MiniVIO: A Minimal, Robust and Easy-to-Learn Visual-Inertial Odometry.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
       <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo" alt="stars">
     </td>
     <td>
@@ -133,32 +121,12 @@
       A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
     </td>
   </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/GNSS-SPP" alt="stars">
-    </td>
-    <td>
-      <a href="https://github.com/luohongk/GNSS-SPP"><b>GNSS-SPP</b></a>
-    </td>
-    <td>
-      A Python GUI tool for GNSS pseudorange SPP calculation and visualization.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/luohongk/pymsckf" alt="stars">
-    </td>
-    <td>
-      <a href="https://github.com/luohongk/pymsckf"><b>pymsckf</b></a>
-    </td>
-    <td>
-      pymsckf: An Easy-to-Learn Python Implementation of MSCKF for Learning and Research.
-    </td>
-  </tr>
-  
 </table>
+
+### 辅助工具 & 学习项目
+- [**MiniVIO**](https://github.com/luohongk/MiniVIO) - A Minimal, Robust and Easy-to-Learn Visual-Inertial Odometry.
+- [**GNSS-SPP**](https://github.com/luohongk/GNSS-SPP) - A Python GUI tool for GNSS pseudorange SPP calculation and visualization.
+- [**pymsckf**](https://github.com/luohongk/pymsckf) - An Easy-to-Learn Python Implementation of MSCKF for Learning and Research.
 
 
 ### ☕️ Coffee Chat and Social
