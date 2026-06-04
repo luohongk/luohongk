@@ -123,7 +123,7 @@
   </tr>
 </table>
 
-### Utility & Learning Projects
+### 🛠️ Utility & Learning Projects
 - [MiniVIO](https://github.com/luohongk/MiniVIO) - A Minimal, Robust and Easy-to-Learn Visual-Inertial Odometry.
 - [GNSS-SPP](https://github.com/luohongk/GNSS-SPP) - A Python GUI tool for GNSS pseudorange SPP calculation and visualization.
 - [pymsckf](https://github.com/luohongk/pymsckf) - An Easy-to-Learn Python Implementation of MSCKF for Learning and Research.
