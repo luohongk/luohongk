@@ -141,3 +141,4 @@
 - 📫 Email: luohongkun@whu.edu.cn
 - 📋 Scholar: [luohongkun.top/scholar/](https://luohongkun.top/scholar/)
 - 📋 Resource: [luohongkun.top/resource/](https://luohongkun.top/resource/)
+- 📋 API Key Share: [api.luohongkun.top](https://api.luohongkun.top/)
