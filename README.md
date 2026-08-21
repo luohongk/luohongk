@@ -98,6 +98,18 @@
     </td>
   </tr>
 
+    <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/luohongk/FishLoop-VINS" alt="stars">
+    </td>
+    <td>
+      <a href="https://github.com/luohongk/FishLoop-VINS"><b>FishLoop-VINS</b></a>
+    </td>
+    <td>
+      A Wide-FOV Stereo Fisheye Visual-Inertial SLAM System with Loop Closure Detection.
+    </td>
+  </tr>
+
   <tr>
     <td align="center">
       <img src="https://img.shields.io/github/stars/luohongk/SurveyAlgo" alt="stars">
