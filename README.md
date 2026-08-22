@@ -83,7 +83,8 @@
 <table>
   <colgroup>
     <col width="10%">
-    <col width="45%">
+    <col width="25%">
+    <col width="20%">
     <col width="45%">
   </colgroup>
   <tr>
@@ -92,6 +93,9 @@
     </td>
     <td>
       <a href="https://github.com/luohongk/SuperVINS"><b>SuperVINS</b></a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/languages/top/luohongk/SuperVINS?style=social&logo=headphonezone&logoColor=0052cc&color=ffffff" alt="top language">
     </td>
     <td>
       [JSEN] A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions.
@@ -106,6 +110,9 @@
       <a href="https://github.com/luohongk/FishLoop-VINS"><b>FishLoop-VINS</b></a>
     </td>
     <td>
+      <img src="https://img.shields.io/github/languages/top/luohongk/FishLoop-VINS?style=social&logo=headphonezone&logoColor=0052cc&color=ffffff" alt="top language">
+    </td>
+    <td>
       A Wide-FOV Stereo Fisheye Visual-Inertial SLAM System with Loop Closure Detection.
     </td>
   </tr>
@@ -118,6 +125,9 @@
       <a href="https://github.com/luohongk/SurveyAlgo"><b>SurveyAlgo</b></a>
     </td>
     <td>
+      <img src="https://img.shields.io/github/languages/top/luohongk/SurveyAlgo?style=social&logo=headphonezone&logoColor=0052cc&color=ffffff" alt="top language">
+    </td>
+    <td>
       An open-source collection of surveying and mapping algorithms for programming design.
     </td>
   </tr>
@@ -128,6 +138,9 @@
     </td>
     <td>
       <a href="https://github.com/luohongk/Embodied-AI-Daily"><b>EAI-Daily</b></a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/languages/top/luohongk/Embodied-AI-Daily?style=social&logo=headphonezone&logoColor=0052cc&color=ffffff" alt="top language">
     </td>
     <td>
       A curated daily collection of papers on localization, navigation, 3D reconstruction, and VLN/A.
